@@ -1,0 +1,4044 @@
+<client id="1">
+  <version>66</version>
+  <baseCurrency>EUR</baseCurrency>
+  <securities>
+    <security id="2">
+      <uuid>6cf143b4-25ed-4e6d-ba18-dd84bebc0d06</uuid>
+      <onlineId>b1ec18809d87451bbfc61c02be65125c</onlineId>
+      <name>Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>LU0290358497</isin>
+      <tickerSymbol>XEON</tickerSymbol>
+      <wkn>DBX0AN</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-03-06" v="14555800000"/>
+        <price t="2025-03-07" v="14558600000"/>
+        <price t="2025-03-10" v="14559200000"/>
+        <price t="2025-03-11" v="14562800000"/>
+        <price t="2025-03-12" v="14560800000"/>
+        <price t="2025-03-13" v="14563600000"/>
+        <price t="2025-03-14" v="14566300000"/>
+        <price t="2025-03-17" v="14564900000"/>
+        <price t="2025-03-18" v="14566700000"/>
+        <price t="2025-03-19" v="14570000000"/>
+        <price t="2025-03-20" v="14571200000"/>
+        <price t="2025-03-21" v="14573300000"/>
+        <price t="2025-03-24" v="14573100000"/>
+        <price t="2025-03-25" v="14572000000"/>
+        <price t="2025-03-26" v="14578600000"/>
+        <price t="2025-03-27" v="14580000000"/>
+        <price t="2025-03-28" v="14579200000"/>
+        <price t="2025-03-31" v="14579600000"/>
+        <price t="2025-04-01" v="14580500000"/>
+        <price t="2025-04-02" v="14585000000"/>
+        <price t="2025-04-03" v="14585900000"/>
+        <price t="2025-04-04" v="14583500000"/>
+        <price t="2025-04-07" v="14592600000"/>
+        <price t="2025-04-08" v="14586800000"/>
+        <price t="2025-04-09" v="14592200000"/>
+        <price t="2025-04-10" v="14592700000"/>
+        <price t="2025-04-11" v="14594600000"/>
+        <price t="2025-04-14" v="14597300000"/>
+        <price t="2025-04-15" v="14585000000"/>
+        <price t="2025-04-16" v="14599800000"/>
+        <price t="2025-04-17" v="14599000000"/>
+        <price t="2025-04-22" v="14600600000"/>
+        <price t="2025-04-23" v="14601200000"/>
+        <price t="2025-04-24" v="14608500000"/>
+        <price t="2025-04-25" v="14604100000"/>
+        <price t="2025-04-28" v="14609000000"/>
+        <price t="2025-04-29" v="14608500000"/>
+        <price t="2025-04-30" v="14612400000"/>
+        <price t="2025-05-02" v="14611200000"/>
+        <price t="2025-05-05" v="14613000000"/>
+        <price t="2025-05-06" v="14615100000"/>
+        <price t="2025-05-07" v="14614000000"/>
+        <price t="2025-05-08" v="14615700000"/>
+        <price t="2025-05-09" v="14621900000"/>
+        <price t="2025-05-12" v="14621200000"/>
+        <price t="2025-05-13" v="14618000000"/>
+        <price t="2025-05-14" v="14619500000"/>
+        <price t="2025-05-15" v="14625000000"/>
+        <price t="2025-05-16" v="14624000000"/>
+        <price t="2025-05-19" v="14629000000"/>
+        <price t="2025-05-20" v="14628600000"/>
+        <price t="2025-05-21" v="14631200000"/>
+        <price t="2025-05-22" v="14629300000"/>
+        <price t="2025-05-23" v="14632000000"/>
+        <price t="2025-05-26" v="14628200000"/>
+        <price t="2025-05-27" v="14630000000"/>
+        <price t="2025-05-28" v="14632000000"/>
+        <price t="2025-05-29" v="14639700000"/>
+        <price t="2025-05-30" v="14637800000"/>
+        <price t="2025-06-02" v="14640000000"/>
+        <price t="2025-06-03" v="14639200000"/>
+        <price t="2025-06-04" v="14638500000"/>
+        <price t="2025-06-05" v="14642000000"/>
+        <price t="2025-06-06" v="14643800000"/>
+        <price t="2025-06-09" v="14645500000"/>
+        <price t="2025-06-10" v="14644000000"/>
+        <price t="2025-06-11" v="14645900000"/>
+        <price t="2025-06-12" v="14648400000"/>
+        <price t="2025-06-13" v="14645100000"/>
+        <price t="2025-06-16" v="14649000000"/>
+        <price t="2025-06-17" v="14652000000"/>
+        <price t="2025-06-18" v="14653200000"/>
+        <price t="2025-06-19" v="14653200000"/>
+        <price t="2025-06-20" v="14654400000"/>
+        <price t="2025-06-23" v="14653000000"/>
+        <price t="2025-06-24" v="14655000000"/>
+        <price t="2025-06-25" v="14655700000"/>
+        <price t="2025-06-26" v="14658000000"/>
+        <price t="2025-06-27" v="14658900000"/>
+      </prices>
+      <latest t="2025-06-27" v="14658900000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+      <updatedAt>2024-10-05T15:29:32.455369Z</updatedAt>
+    </security>
+    <security id="3">
+      <uuid>4ab77691-813b-4b85-b347-c7a507eb662f</uuid>
+      <onlineId>6111e538fb974c8bae6be22b305178ff</onlineId>
+      <name>Rio Tinto PLC</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>GB0007188757</isin>
+      <wkn>852147</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-01-02" v="5765000000"/>
+        <price t="2025-01-03" v="5676000000"/>
+        <price t="2025-01-06" v="5693000000"/>
+        <price t="2025-01-07" v="5641000000"/>
+        <price t="2025-01-08" v="5685000000"/>
+        <price t="2025-01-09" v="5818000000"/>
+        <price t="2025-01-10" v="5768000000"/>
+        <price t="2025-01-13" v="5840000000"/>
+        <price t="2025-01-14" v="5844000000"/>
+        <price t="2025-01-15" v="5889000000"/>
+        <price t="2025-01-16" v="5871000000"/>
+        <price t="2025-01-17" v="5987000000"/>
+        <price t="2025-01-20" v="6037000000"/>
+        <price t="2025-01-21" v="5945000000"/>
+        <price t="2025-01-22" v="5918000000"/>
+        <price t="2025-01-23" v="5876000000"/>
+        <price t="2025-01-24" v="5940000000"/>
+        <price t="2025-01-27" v="5844000000"/>
+        <price t="2025-01-28" v="5761000000"/>
+        <price t="2025-01-29" v="5796000000"/>
+        <price t="2025-01-30" v="5850000000"/>
+        <price t="2025-01-31" v="5862000000"/>
+        <price t="2025-02-03" v="5849000000"/>
+        <price t="2025-02-04" v="5883000000"/>
+        <price t="2025-02-05" v="5898000000"/>
+        <price t="2025-02-06" v="6045000000"/>
+        <price t="2025-02-07" v="6022000000"/>
+        <price t="2025-02-10" v="6041000000"/>
+        <price t="2025-02-11" v="5956000000"/>
+        <price t="2025-02-12" v="5998000000"/>
+        <price t="2025-02-13" v="6044000000"/>
+        <price t="2025-02-14" v="6067000000"/>
+        <price t="2025-02-17" v="6123000000"/>
+        <price t="2025-02-18" v="6129000000"/>
+        <price t="2025-02-19" v="6081000000"/>
+        <price t="2025-02-20" v="6110000000"/>
+        <price t="2025-02-21" v="6156000000"/>
+        <price t="2025-02-24" v="6055000000"/>
+        <price t="2025-02-25" v="5853000000"/>
+        <price t="2025-02-26" v="5910000000"/>
+        <price t="2025-02-27" v="5864000000"/>
+        <price t="2025-02-28" v="5821000000"/>
+        <price t="2025-03-03" v="5914000000"/>
+        <price t="2025-03-04" v="5863000000"/>
+        <price t="2025-03-05" v="5865000000"/>
+        <price t="2025-03-06" v="5726000000"/>
+        <price t="2025-03-07" v="5725000000"/>
+        <price t="2025-03-10" v="5753000000"/>
+        <price t="2025-03-11" v="5651000000"/>
+        <price t="2025-03-12" v="5594000000"/>
+        <price t="2025-03-13" v="5653000000"/>
+        <price t="2025-03-14" v="5742000000"/>
+        <price t="2025-03-17" v="5825000000"/>
+        <price t="2025-03-18" v="5837000000"/>
+        <price t="2025-03-19" v="5860000000"/>
+        <price t="2025-03-20" v="5803000000"/>
+        <price t="2025-03-21" v="5700000000"/>
+        <price t="2025-03-24" v="5790000000"/>
+        <price t="2025-03-25" v="5832000000"/>
+        <price t="2025-03-26" v="5841000000"/>
+        <price t="2025-03-27" v="5788000000"/>
+        <price t="2025-03-28" v="5654000000"/>
+        <price t="2025-03-31" v="5508000000"/>
+        <price t="2025-04-01" v="5578000000"/>
+        <price t="2025-04-02" v="5516000000"/>
+        <price t="2025-04-03" v="5344000000"/>
+        <price t="2025-04-04" v="4998500000"/>
+        <price t="2025-04-07" v="4968000000"/>
+        <price t="2025-04-08" v="4950500000"/>
+        <price t="2025-04-09" v="4766000000"/>
+        <price t="2025-04-10" v="4912000000"/>
+        <price t="2025-04-11" v="4961500000"/>
+        <price t="2025-04-14" v="5050000000"/>
+        <price t="2025-04-15" v="5106000000"/>
+        <price t="2025-04-16" v="5088000000"/>
+        <price t="2025-04-17" v="5126000000"/>
+        <price t="2025-04-22" v="5217000000"/>
+        <price t="2025-04-23" v="5361000000"/>
+        <price t="2025-04-24" v="5406000000"/>
+        <price t="2025-04-25" v="5330000000"/>
+        <price t="2025-04-28" v="5325000000"/>
+        <price t="2025-04-29" v="5349000000"/>
+        <price t="2025-04-30" v="5232000000"/>
+        <price t="2025-05-02" v="5283000000"/>
+        <price t="2025-05-05" v="5263000000"/>
+        <price t="2025-05-06" v="5276000000"/>
+        <price t="2025-05-07" v="5339000000"/>
+        <price t="2025-05-08" v="5261000000"/>
+        <price t="2025-05-09" v="5315000000"/>
+        <price t="2025-05-12" v="5539000000"/>
+        <price t="2025-05-13" v="5589000000"/>
+        <price t="2025-05-14" v="5561000000"/>
+        <price t="2025-05-15" v="5577000000"/>
+        <price t="2025-05-16" v="5570000000"/>
+        <price t="2025-05-19" v="5530000000"/>
+        <price t="2025-05-20" v="5557000000"/>
+        <price t="2025-05-21" v="5521000000"/>
+        <price t="2025-05-22" v="5460000000"/>
+        <price t="2025-05-23" v="5436000000"/>
+        <price t="2025-05-26" v="5463000000"/>
+        <price t="2025-05-27" v="5367000000"/>
+        <price t="2025-05-28" v="5309000000"/>
+        <price t="2025-05-29" v="5305000000"/>
+        <price t="2025-05-30" v="5241000000"/>
+        <price t="2025-06-02" v="5206000000"/>
+        <price t="2025-06-03" v="5160000000"/>
+        <price t="2025-06-04" v="5162000000"/>
+        <price t="2025-06-05" v="5220000000"/>
+        <price t="2025-06-06" v="5176000000"/>
+        <price t="2025-06-09" v="5189000000"/>
+        <price t="2025-06-10" v="5198000000"/>
+        <price t="2025-06-11" v="5158000000"/>
+        <price t="2025-06-12" v="5062000000"/>
+        <price t="2025-06-13" v="5045000000"/>
+        <price t="2025-06-16" v="5065000000"/>
+        <price t="2025-06-17" v="4998000000"/>
+        <price t="2025-06-18" v="4972000000"/>
+        <price t="2025-06-19" v="4874000000"/>
+        <price t="2025-06-20" v="4863000000"/>
+        <price t="2025-06-23" v="4901000000"/>
+        <price t="2025-06-24" v="4931000000"/>
+        <price t="2025-06-25" v="4846000000"/>
+        <price t="2025-06-26" v="5016000000"/>
+        <price t="2025-06-27" v="5024000000"/>
+      </prices>
+      <latest t="2025-06-27" v="5024000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <events>
+        <event>
+          <date>2024-09-07</date>
+          <type>STOCK_SPLIT</type>
+          <details>1:2</details>
+        </event>
+        <event>
+          <date>2024-10-21</date>
+          <type>STOCK_SPLIT</type>
+          <details>1:2</details>
+        </event>
+        <event>
+          <date>2024-10-21</date>
+          <type>NOTE</type>
+          <details>event001</details>
+        </event>
+        <event>
+          <date>2024-10-21</date>
+          <type>NOTE</type>
+          <details>event0003</details>
+        </event>
+      </events>
+      <isRetired>false</isRetired>
+      <updatedAt>2024-07-30T14:54:13.162412Z</updatedAt>
+    </security>
+    <security id="4">
+      <uuid>01db1b45-0944-433c-9937-bd796a49cdf7</uuid>
+      <onlineId>58ccfdb29eab4458af991eb357c36f76</onlineId>
+      <name>Bastei Lübbe AG</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE000A1X3YY0</isin>
+      <tickerSymbol>BST</tickerSymbol>
+      <wkn>A1X3YY</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-16" v="980000000"/>
+        <price t="2025-06-17" v="966000000"/>
+        <price t="2025-06-18" v="976000000"/>
+        <price t="2025-06-19" v="970000000"/>
+        <price t="2025-06-20" v="970000000"/>
+        <price t="2025-06-23" v="988000000"/>
+        <price t="2025-06-24" v="1000000000"/>
+        <price t="2025-06-25" v="1020000000"/>
+        <price t="2025-06-26" v="1005000000"/>
+        <price t="2025-06-27" v="998000000"/>
+      </prices>
+      <latestFeed>MANUAL</latestFeed>
+      <latest t="2025-03-20" v="1100000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+      <updatedAt>2024-10-05T15:29:21.945999Z</updatedAt>
+    </security>
+    <security id="5">
+      <uuid>8b77278f-0762-4ca1-827f-e5ab754577eb</uuid>
+      <onlineId>db72b8d671c14f6eab44f7f426efc03a</onlineId>
+      <name>BP P L C R eg i st er e d S ha r e s DL - , 25</name>
+      <currencyCode>GBP</currencyCode>
+      <isin>GB0007980591</isin>
+      <wkn>850517</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-02-20" v="451965111"/>
+        <price t="2025-02-21" v="448062640"/>
+        <price t="2025-02-24" v="446785020"/>
+        <price t="2025-02-25" v="436925160"/>
+        <price t="2025-02-26" v="430913600"/>
+        <price t="2025-02-27" v="439489668"/>
+        <price t="2025-02-28" v="437574576"/>
+        <price t="2025-03-03" v="433117440"/>
+        <price t="2025-03-04" v="408434598"/>
+        <price t="2025-03-05" v="407020750"/>
+        <price t="2025-03-06" v="408853305"/>
+        <price t="2025-03-07" v="414133400"/>
+        <price t="2025-03-10" v="417400322"/>
+        <price t="2025-03-11" v="411238876"/>
+        <price t="2025-03-12" v="416606490"/>
+        <price t="2025-03-13" v="416753661"/>
+        <price t="2025-03-14" v="428575653"/>
+        <price t="2025-03-17" v="431893640"/>
+        <price t="2025-03-18" v="437615427"/>
+        <price t="2025-03-19" v="442754748"/>
+        <price t="2025-03-20" v="447741500"/>
+        <price t="2025-03-21" v="447975220"/>
+        <price t="2025-03-24" v="441071336"/>
+        <price t="2025-03-25" v="442727370"/>
+        <price t="2025-03-26" v="446881312"/>
+        <price t="2025-03-27" v="446167890"/>
+        <price t="2025-03-28" v="434045106"/>
+        <price t="2025-03-31" v="436224992"/>
+        <price t="2025-04-01" v="433970355"/>
+        <price t="2025-04-02" v="432380355"/>
+        <price t="2025-04-03" v="399100946"/>
+        <price t="2025-04-04" v="370492108"/>
+        <price t="2025-04-07" v="349840950"/>
+        <price t="2025-04-08" v="354908736"/>
+        <price t="2025-04-09" v="332904403"/>
+        <price t="2025-04-10" v="339589800"/>
+        <price t="2025-04-11" v="331196638"/>
+        <price t="2025-04-14" v="343026893"/>
+        <price t="2025-04-15" v="348055975"/>
+        <price t="2025-04-16" v="353217059"/>
+        <price t="2025-04-17" v="359764934"/>
+        <price t="2025-04-22" v="359186943"/>
+        <price t="2025-04-23" v="358443154"/>
+        <price t="2025-04-24" v="362733750"/>
+        <price t="2025-04-25" v="364145735"/>
+        <price t="2025-04-28" v="362781540"/>
+        <price t="2025-04-29" v="353091900"/>
+        <price t="2025-04-30" v="350728650"/>
+        <price t="2025-05-02" v="350450310"/>
+        <price t="2025-05-05" v="361206300"/>
+        <price t="2025-05-06" v="355443930"/>
+        <price t="2025-05-07" v="351631965"/>
+        <price t="2025-05-08" v="356542940"/>
+        <price t="2025-05-09" v="373623775"/>
+        <price t="2025-05-12" v="381791555"/>
+        <price t="2025-05-13" v="383313600"/>
+        <price t="2025-05-14" v="380778750"/>
+        <price t="2025-05-15" v="369013320"/>
+        <price t="2025-05-16" v="374832960"/>
+        <price t="2025-05-19" v="365552980"/>
+        <price t="2025-05-20" v="366183000"/>
+        <price t="2025-05-21" v="362882390"/>
+        <price t="2025-05-22" v="357768285"/>
+        <price t="2025-05-23" v="355773990"/>
+        <price t="2025-05-26" v="360730120"/>
+        <price t="2025-05-27" v="360131570"/>
+        <price t="2025-05-28" v="358804550"/>
+        <price t="2025-05-29" v="356273810"/>
+        <price t="2025-05-30" v="359066220"/>
+        <price t="2025-06-02" v="363041530"/>
+        <price t="2025-06-03" v="366966000"/>
+        <price t="2025-06-04" v="358271445"/>
+        <price t="2025-06-05" v="358186355"/>
+        <price t="2025-06-06" v="361770310"/>
+        <price t="2025-06-09" v="362611080"/>
+        <price t="2025-06-10" v="374955200"/>
+        <price t="2025-06-11" v="373749220"/>
+        <price t="2025-06-12" v="381136320"/>
+        <price t="2025-06-13" v="386169525"/>
+        <price t="2025-06-16" v="382427010"/>
+        <price t="2025-06-17" v="389081000"/>
+        <price t="2025-06-18" v="385951760"/>
+        <price t="2025-06-19" v="392928705"/>
+        <price t="2025-06-20" v="384591850"/>
+        <price t="2025-06-23" v="387571080"/>
+        <price t="2025-06-24" v="368323765"/>
+        <price t="2025-06-25" v="364230720"/>
+        <price t="2025-06-26" v="370120275"/>
+        <price t="2025-06-27" v="369774795"/>
+      </prices>
+      <latest t="2025-06-27" v="369774795">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2024-10-21T08:11:58.575126Z</updatedAt>
+    </security>
+    <security id="6">
+      <uuid>dfbb9299-46e6-4a18-acf4-c1d05eb7b614</uuid>
+      <onlineId>9f46acf42353442e8325c8a730095a8d</onlineId>
+      <name>S h el l P LC R e g. Sh a r es C l a ss E O - ,0 7</name>
+      <currencyCode>GBP</currencyCode>
+      <isin>GB00BP6MXD84</isin>
+      <wkn>A3C99G</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-18" v="2678914000"/>
+        <price t="2025-06-19" v="2712621600"/>
+        <price t="2025-06-20" v="2693423500"/>
+        <price t="2025-06-23" v="2704173550"/>
+        <price t="2025-06-24" v="2595618800"/>
+        <price t="2025-06-25" v="2573573100"/>
+        <price t="2025-06-26" v="2589092250"/>
+        <price t="2025-06-27" v="2596654050"/>
+      </prices>
+      <latest t="2025-06-27" v="2596654050">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+      <updatedAt>2024-10-21T08:11:58.575152Z</updatedAt>
+    </security>
+    <security id="7">
+      <uuid>92618bc1-ad2e-4faf-b7ec-b8075656e26f</uuid>
+      <name>i Sh ar e s T r . - Ru s s el l 2 0 0 0 E TF R e g is t er e d S h a r e s o .N .</name>
+      <currencyCode>USD</currencyCode>
+      <isin>US4642876555</isin>
+      <wkn>592353</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2024-10-21T08:11:28.739768Z</updatedAt>
+    </security>
+    <security id="8">
+      <uuid>d05f0af8-aadd-4d27-9cdf-c3acfad65ca8</uuid>
+      <name>H y u nd a i M o t or C o . Lt d . R eg . S hs ( N V ) ( G D R s ) 1 / 2/ S W5 00 0</name>
+      <currencyCode>USD</currencyCode>
+      <isin>USY384721251</isin>
+      <wkn>885166</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2024-10-21T08:11:28.757170Z</updatedAt>
+    </security>
+    <security id="9">
+      <uuid>d11bbdc6-8805-4f7f-a9d9-a1d5607ec912</uuid>
+      <name>A v iv a P LC R e gi s t e r e d S ha r e s L S - ,3 3</name>
+      <currencyCode>GBP</currencyCode>
+      <isin>GB00BPQY8M80</isin>
+      <wkn>A3DJ6W</wkn>
+      <feed>MANUAL</feed>
+      <prices>
+        <price t="2025-06-13" v="4191000000"/>
+        <price t="2025-06-16" v="4294000000"/>
+        <price t="2025-06-17" v="4293500000"/>
+        <price t="2025-06-18" v="4293500000"/>
+        <price t="2025-06-19" v="4284000000"/>
+        <price t="2025-06-20" v="4249000000"/>
+        <price t="2025-06-23" v="4222500000"/>
+        <price t="2025-06-24" v="4269000000"/>
+        <price t="2025-06-25" v="4180000000"/>
+        <price t="2025-06-26" v="4214500000"/>
+        <price t="2025-06-27" v="4228500000"/>
+      </prices>
+      <latest t="2025-06-27" v="4228500000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062264Z</updatedAt>
+    </security>
+    <security id="11">
+      <uuid>46702600-5f1d-4e46-9f62-79fe327d10e3</uuid>
+      <onlineId>e7626a6d0221464084592b5b5bdfd696</onlineId>
+      <name>XTR.MSCI MEXICO 1C</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>LU0476289466</isin>
+      <wkn>DBX0ES</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-04-30" v="565800000"/>
+        <price t="2025-05-02" v="562000000"/>
+        <price t="2025-05-05" v="565400000"/>
+        <price t="2025-05-06" v="566000000"/>
+        <price t="2025-05-07" v="586300000"/>
+        <price t="2025-05-08" v="586700000"/>
+        <price t="2025-05-09" v="583200000"/>
+        <price t="2025-05-12" v="576600000"/>
+        <price t="2025-05-13" v="588400000"/>
+        <price t="2025-05-14" v="592100000"/>
+        <price t="2025-05-15" v="593300000"/>
+        <price t="2025-05-16" v="592600000"/>
+        <price t="2025-05-19" v="599000000"/>
+        <price t="2025-05-20" v="603200000"/>
+        <price t="2025-05-21" v="596500000"/>
+        <price t="2025-05-22" v="598900000"/>
+        <price t="2025-05-23" v="595200000"/>
+        <price t="2025-05-26" v="599000000"/>
+        <price t="2025-05-27" v="615000000"/>
+        <price t="2025-05-28" v="604200000"/>
+        <price t="2025-05-29" v="603600000"/>
+        <price t="2025-05-30" v="598000000"/>
+        <price t="2025-06-02" v="594200000"/>
+        <price t="2025-06-03" v="593900000"/>
+        <price t="2025-06-04" v="593300000"/>
+        <price t="2025-06-05" v="594800000"/>
+        <price t="2025-06-06" v="595100000"/>
+        <price t="2025-06-09" v="599000000"/>
+        <price t="2025-06-10" v="599600000"/>
+        <price t="2025-06-11" v="604200000"/>
+        <price t="2025-06-12" v="597700000"/>
+        <price t="2025-06-13" v="592300000"/>
+        <price t="2025-06-16" v="594100000"/>
+        <price t="2025-06-17" v="587000000"/>
+        <price t="2025-06-18" v="584900000"/>
+        <price t="2025-06-19" v="581100000"/>
+        <price t="2025-06-20" v="575800000"/>
+        <price t="2025-06-23" v="573400000"/>
+        <price t="2025-06-24" v="577900000"/>
+        <price t="2025-06-25" v="584000000"/>
+        <price t="2025-06-26" v="583800000"/>
+        <price t="2025-06-27" v="591300000"/>
+      </prices>
+      <latest t="2025-06-27" v="591300000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062291Z</updatedAt>
+    </security>
+    <security id="12">
+      <uuid>af3c2a6b-8065-4ac6-9505-4aac86ab4ba0</uuid>
+      <onlineId>be525a0ebdef4921b261aa2498a6949e</onlineId>
+      <name>B A S F S E N a m e n s - A k t i e n o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE000BASF111</isin>
+      <wkn>BASF11</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-12" v="4269000000"/>
+        <price t="2025-06-13" v="4212000000"/>
+        <price t="2025-06-16" v="4242000000"/>
+        <price t="2025-06-17" v="4257000000"/>
+        <price t="2025-06-18" v="4208000000"/>
+        <price t="2025-06-19" v="4145000000"/>
+        <price t="2025-06-20" v="4148000000"/>
+        <price t="2025-06-23" v="4128000000"/>
+        <price t="2025-06-24" v="4254000000"/>
+        <price t="2025-06-25" v="4155000000"/>
+        <price t="2025-06-26" v="4185000000"/>
+        <price t="2025-06-27" v="4288000000"/>
+      </prices>
+      <latest t="2025-06-27" v="4288000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062297Z</updatedAt>
+    </security>
+    <security id="13">
+      <uuid>31a1f848-e493-4e6e-9baa-f10ecb43a34c</uuid>
+      <onlineId>f4376322e77d44d6adc77f1792a598c6</onlineId>
+      <name>B a y e r A G N a m e n s - A k t i e n o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE000BAY0017</isin>
+      <wkn>BAY001</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-02-18" v="2164000000"/>
+        <price t="2025-02-19" v="2130000000"/>
+        <price t="2025-02-20" v="2167500000"/>
+        <price t="2025-02-21" v="2205000000"/>
+        <price t="2025-02-24" v="2227500000"/>
+        <price t="2025-02-25" v="2264000000"/>
+        <price t="2025-02-26" v="2303500000"/>
+        <price t="2025-02-27" v="2274500000"/>
+        <price t="2025-02-28" v="2271000000"/>
+        <price t="2025-03-03" v="2400000000"/>
+        <price t="2025-03-04" v="2352000000"/>
+        <price t="2025-03-05" v="2449000000"/>
+        <price t="2025-03-06" v="2485500000"/>
+        <price t="2025-03-07" v="2325000000"/>
+        <price t="2025-03-10" v="2355500000"/>
+        <price t="2025-03-11" v="2364000000"/>
+        <price t="2025-03-12" v="2300000000"/>
+        <price t="2025-03-13" v="2290000000"/>
+        <price t="2025-03-14" v="2328500000"/>
+        <price t="2025-03-17" v="2379000000"/>
+        <price t="2025-03-18" v="2476000000"/>
+        <price t="2025-03-19" v="2438500000"/>
+        <price t="2025-03-20" v="2399500000"/>
+        <price t="2025-03-21" v="2408000000"/>
+        <price t="2025-03-24" v="2241000000"/>
+        <price t="2025-03-25" v="2357000000"/>
+        <price t="2025-03-26" v="2278500000"/>
+        <price t="2025-03-27" v="2267000000"/>
+        <price t="2025-03-28" v="2257000000"/>
+        <price t="2025-03-31" v="2207000000"/>
+        <price t="2025-04-01" v="2231500000"/>
+        <price t="2025-04-02" v="2142500000"/>
+        <price t="2025-04-03" v="2126500000"/>
+        <price t="2025-04-04" v="2009500000"/>
+        <price t="2025-04-07" v="1983200000"/>
+        <price t="2025-04-08" v="2040500000"/>
+        <price t="2025-04-09" v="1946800000"/>
+        <price t="2025-04-10" v="1989200000"/>
+        <price t="2025-04-11" v="2016000000"/>
+        <price t="2025-04-14" v="2089000000"/>
+        <price t="2025-04-15" v="2082500000"/>
+        <price t="2025-04-16" v="2095500000"/>
+        <price t="2025-04-17" v="2103000000"/>
+        <price t="2025-04-22" v="2148500000"/>
+        <price t="2025-04-23" v="2210500000"/>
+        <price t="2025-04-24" v="2248000000"/>
+        <price t="2025-04-25" v="2299000000"/>
+        <price t="2025-04-28" v="2298000000"/>
+        <price t="2025-04-29" v="2317000000"/>
+        <price t="2025-04-30" v="2303000000"/>
+        <price t="2025-05-02" v="2388000000"/>
+        <price t="2025-05-05" v="2420000000"/>
+        <price t="2025-05-06" v="2405000000"/>
+        <price t="2025-05-07" v="2344000000"/>
+        <price t="2025-05-08" v="2342000000"/>
+        <price t="2025-05-09" v="2404500000"/>
+        <price t="2025-05-12" v="2406000000"/>
+        <price t="2025-05-13" v="2474000000"/>
+        <price t="2025-05-14" v="2217000000"/>
+        <price t="2025-05-15" v="2286500000"/>
+        <price t="2025-05-16" v="2287000000"/>
+        <price t="2025-05-19" v="2291500000"/>
+        <price t="2025-05-20" v="2343000000"/>
+        <price t="2025-05-21" v="2371500000"/>
+        <price t="2025-05-22" v="2436000000"/>
+        <price t="2025-05-23" v="2447500000"/>
+        <price t="2025-05-26" v="2468000000"/>
+        <price t="2025-05-27" v="2493000000"/>
+        <price t="2025-05-28" v="2467000000"/>
+        <price t="2025-05-29" v="2472500000"/>
+        <price t="2025-05-30" v="2473500000"/>
+        <price t="2025-06-02" v="2514000000"/>
+        <price t="2025-06-03" v="2496000000"/>
+        <price t="2025-06-04" v="2532000000"/>
+        <price t="2025-06-05" v="2643000000"/>
+        <price t="2025-06-06" v="2643500000"/>
+        <price t="2025-06-09" v="2648500000"/>
+        <price t="2025-06-10" v="2674500000"/>
+        <price t="2025-06-11" v="2775500000"/>
+        <price t="2025-06-12" v="2782000000"/>
+        <price t="2025-06-13" v="2748000000"/>
+        <price t="2025-06-16" v="2757500000"/>
+        <price t="2025-06-17" v="2716000000"/>
+        <price t="2025-06-18" v="2720500000"/>
+        <price t="2025-06-19" v="2693000000"/>
+        <price t="2025-06-20" v="2668500000"/>
+        <price t="2025-06-23" v="2623500000"/>
+        <price t="2025-06-24" v="2648500000"/>
+        <price t="2025-06-25" v="2641000000"/>
+        <price t="2025-06-26" v="2628000000"/>
+        <price t="2025-06-27" v="2697500000"/>
+      </prices>
+      <latest t="2025-06-27" v="2697500000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062299Z</updatedAt>
+    </security>
+    <security id="14">
+      <uuid>a8a3f065-5c34-4c5c-8ecc-1d61df546fc1</uuid>
+      <onlineId>e6e44ff37c034bc095909ed7f0863784</onlineId>
+      <name>C o m m e r z b a n k A G I n h a b e r - A k t i e n o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE000CBK1001</isin>
+      <wkn>CBK100</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-19" v="2773000000"/>
+        <price t="2025-06-20" v="2829000000"/>
+        <price t="2025-06-23" v="2805000000"/>
+        <price t="2025-06-24" v="2869000000"/>
+        <price t="2025-06-25" v="2706000000"/>
+        <price t="2025-06-26" v="2706000000"/>
+        <price t="2025-06-27" v="2721000000"/>
+      </prices>
+      <latest t="2025-06-27" v="2721000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062301Z</updatedAt>
+    </security>
+    <security id="15">
+      <uuid>fda2ac41-2a3b-4b0a-bfd0-79ded3c2c5ab</uuid>
+      <onlineId>f3b3d4e9d6204bc0b05146eb05f88fc4</onlineId>
+      <name>A l l i a n z S E v i n k . N a m e n s - A k t i e n o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE0008404005</isin>
+      <wkn>840400</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-18" v="33770000000"/>
+        <price t="2025-06-19" v="33340000000"/>
+        <price t="2025-06-20" v="34020000000"/>
+        <price t="2025-06-23" v="33620000000"/>
+        <price t="2025-06-24" v="34070000000"/>
+        <price t="2025-06-25" v="33990000000"/>
+        <price t="2025-06-26" v="34030000000"/>
+        <price t="2025-06-27" v="34380000000"/>
+      </prices>
+      <latest t="2025-06-27" v="34380000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062303Z</updatedAt>
+    </security>
+    <security id="16">
+      <uuid>255cd958-81f3-4515-8ca3-25278bb7b09d</uuid>
+      <onlineId>d88b08bfc1ea4f288d8124de2819c3a5</onlineId>
+      <name>M e r c e d e s - B e n z G r o u p A G N a m e n s - A k t i e n o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE0007100000</isin>
+      <wkn>710000</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-20" v="4863000000"/>
+        <price t="2025-06-23" v="4846000000"/>
+        <price t="2025-06-24" v="4936500000"/>
+        <price t="2025-06-25" v="4886000000"/>
+        <price t="2025-06-26" v="4815500000"/>
+        <price t="2025-06-27" v="5049000000"/>
+      </prices>
+      <latest t="2025-06-27" v="5049000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062305Z</updatedAt>
+    </security>
+    <security id="17">
+      <uuid>34d435d6-1122-4479-8afc-2b75f85b6221</uuid>
+      <onlineId>0d8ea38de6d7469995fe23600c511152</onlineId>
+      <name>f r e e n e t A G N a m e n s - A k t i e n o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE000A0Z2ZZ5</isin>
+      <wkn>A0Z2ZZ</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-10" v="2822000000"/>
+        <price t="2025-06-11" v="2804000000"/>
+        <price t="2025-06-12" v="2786000000"/>
+        <price t="2025-06-13" v="2740000000"/>
+        <price t="2025-06-16" v="2750000000"/>
+        <price t="2025-06-17" v="2702000000"/>
+        <price t="2025-06-18" v="2714000000"/>
+        <price t="2025-06-19" v="2694000000"/>
+        <price t="2025-06-20" v="2702000000"/>
+        <price t="2025-06-23" v="2716000000"/>
+        <price t="2025-06-24" v="2756000000"/>
+        <price t="2025-06-25" v="2718000000"/>
+        <price t="2025-06-26" v="2722000000"/>
+        <price t="2025-06-27" v="2766000000"/>
+      </prices>
+      <latest t="2025-06-27" v="2766000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062307Z</updatedAt>
+    </security>
+    <security id="18">
+      <uuid>4f9c372b-2ef2-45fe-bc6d-812899402852</uuid>
+      <onlineId>039feb393d3d4ee18b93729d010866ea</onlineId>
+      <name>D e u t s c h e B a n k A G N a m e n s - A k t i e n o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE0005140008</isin>
+      <wkn>514000</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-20" v="2399500000"/>
+        <price t="2025-06-23" v="2386500000"/>
+        <price t="2025-06-24" v="2514000000"/>
+        <price t="2025-06-25" v="2519000000"/>
+        <price t="2025-06-26" v="2554000000"/>
+        <price t="2025-06-27" v="2600000000"/>
+      </prices>
+      <latest t="2025-06-27" v="2600000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062308Z</updatedAt>
+    </security>
+    <security id="19">
+      <uuid>475eb3cb-8741-44f3-833f-6fb4fb56b5ff</uuid>
+      <onlineId>681d11e45dee4b099d79925aebd5bbc4</onlineId>
+      <name>D a i m l e r T r u c k H o l d i n g A G N a m e n s - A k t i e n o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE000DTR0CK8</isin>
+      <wkn>DTR0CK</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-23" v="3745000000"/>
+        <price t="2025-06-24" v="3877000000"/>
+        <price t="2025-06-25" v="3810000000"/>
+        <price t="2025-06-26" v="3812000000"/>
+        <price t="2025-06-27" v="4046000000"/>
+      </prices>
+      <latest t="2025-06-27" v="4046000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062310Z</updatedAt>
+    </security>
+    <security id="20">
+      <uuid>2d75a0e9-f219-470c-b160-63e4e2bb253f</uuid>
+      <onlineId>f9c39f31b1f443639e462cd8e22e3ce7</onlineId>
+      <name>B a y e r i s c h e M o t o r e n W e r k e A G S t a m m a k t i e n E O 1</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE0005190003</isin>
+      <wkn>519000</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-19" v="7150000000"/>
+        <price t="2025-06-20" v="7200000000"/>
+        <price t="2025-06-23" v="7222000000"/>
+        <price t="2025-06-24" v="7316000000"/>
+        <price t="2025-06-25" v="7292000000"/>
+        <price t="2025-06-26" v="7296000000"/>
+        <price t="2025-06-27" v="7684000000"/>
+      </prices>
+      <latest t="2025-06-27" v="7684000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062312Z</updatedAt>
+    </security>
+    <security id="21">
+      <uuid>b8ab84b1-9f21-48f7-8498-336aa29c2961</uuid>
+      <onlineId>fd9a13d0d72041f98d5eb6795e7e2ece</onlineId>
+      <name>V o l k s w a g e n A G V o r z u g s a k t i e n o . S t . o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE0007664039</isin>
+      <wkn>766403</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-17" v="8846000000"/>
+        <price t="2025-06-18" v="8770000000"/>
+        <price t="2025-06-19" v="8654000000"/>
+        <price t="2025-06-20" v="8730000000"/>
+        <price t="2025-06-23" v="8704000000"/>
+        <price t="2025-06-24" v="9014000000"/>
+        <price t="2025-06-25" v="8926000000"/>
+        <price t="2025-06-26" v="8792000000"/>
+        <price t="2025-06-27" v="9134000000"/>
+      </prices>
+      <latest t="2025-06-27" v="9134000000">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062314Z</updatedAt>
+    </security>
+    <security id="22">
+      <uuid>556a3ac1-77a8-440c-985b-1a98711fbf56</uuid>
+      <name>N o v a r t i s A G N a m e n s - A k t i e n S F 0 , 4 9</name>
+      <currencyCode>CHF</currencyCode>
+      <isin>CH0012005267</isin>
+      <wkn>904278</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:24:43.110530Z</updatedAt>
+    </security>
+    <security id="23">
+      <uuid>59cb2708-5f25-400c-8011-0abe4ee3626a</uuid>
+      <onlineId>c124a34fd35f4bc595c290cdf6aaaa3b</onlineId>
+      <name>A s t r a Z e n e c a P L C R e g i s t e r e d S h a r e s D L - , 2 5</name>
+      <currencyCode>GBP</currencyCode>
+      <isin>GB0009895292</isin>
+      <wkn>886455</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-05" v="10704758500"/>
+        <price t="2025-06-06" v="10781067000"/>
+        <price t="2025-06-09" v="10791144000"/>
+        <price t="2025-06-10" v="10935488000"/>
+        <price t="2025-06-11" v="10912850000"/>
+        <price t="2025-06-12" v="11095131000"/>
+        <price t="2025-06-13" v="11001217500"/>
+        <price t="2025-06-16" v="10845517500"/>
+        <price t="2025-06-17" v="10686087500"/>
+        <price t="2025-06-18" v="10565996000"/>
+        <price t="2025-06-19" v="10582299000"/>
+        <price t="2025-06-20" v="10427945500"/>
+        <price t="2025-06-23" v="10468874000"/>
+        <price t="2025-06-24" v="10360305000"/>
+        <price t="2025-06-25" v="10278093000"/>
+        <price t="2025-06-26" v="10203592500"/>
+        <price t="2025-06-27" v="10239064500"/>
+      </prices>
+      <latest t="2025-06-27" v="10239064500">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:18.062295Z</updatedAt>
+    </security>
+    <security id="24">
+      <uuid>f07bd9b7-5930-4a11-9a11-438b867c49c3</uuid>
+      <name>C a n o n I n c . R e g i s t e r e d S h a r e s o . N .</name>
+      <currencyCode>JPY</currencyCode>
+      <isin>JP3242800005</isin>
+      <wkn>853055</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:24:43.585286Z</updatedAt>
+    </security>
+    <security id="25">
+      <uuid>28381942-98d7-4cd2-b618-4fccdf704072</uuid>
+      <name>Z u r i c h I n s u r a n c e G r o u p A G N a m . - A k t i e n S F 0 , 1 0</name>
+      <currencyCode>CHF</currencyCode>
+      <isin>CH0011075394</isin>
+      <wkn>579919</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:24:43.855359Z</updatedAt>
+    </security>
+    <security id="26">
+      <uuid>0a24b8e7-0ea4-4757-8319-2792de9006a9</uuid>
+      <name>S a n d o z G r o u p A G N a m e n s - A k t i e n S F - , 0 5</name>
+      <currencyCode>CHF</currencyCode>
+      <isin>CH1243598427</isin>
+      <wkn>A3ETYB</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:24:44.589119Z</updatedAt>
+    </security>
+    <security id="27">
+      <uuid>3a7594ce-2ca5-4f85-9db3-936c2dc847c3</uuid>
+      <name>T o y o t a M o t o r C o r p . R e g i s t e r e d S h a r e s o . N .</name>
+      <currencyCode>JPY</currencyCode>
+      <isin>JP3633400001</isin>
+      <wkn>853510</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:24:45.158743Z</updatedAt>
+    </security>
+    <security id="28">
+      <uuid>662bc160-7f8e-4ff3-ade5-8c410ab924dc</uuid>
+      <name>F u j i t s u L t d . R e g i s t e r e d S h a r e s o . N .</name>
+      <currencyCode>JPY</currencyCode>
+      <isin>JP3818000006</isin>
+      <wkn>855182</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:24:45.267332Z</updatedAt>
+    </security>
+    <security id="29">
+      <uuid>dbdb2686-2aef-4748-826b-ce7b84b87d4f</uuid>
+      <name>H o n d a M o t o r C o . L t d . R e g . S h a r e s ( A D R s ) 1 / 3 o . N .</name>
+      <currencyCode>USD</currencyCode>
+      <isin>US4381283088</isin>
+      <wkn>858326</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:24:45.524473Z</updatedAt>
+    </security>
+    <security id="30">
+      <uuid>52f73b97-5c83-44db-9204-d129c9b2f8dc</uuid>
+      <name>LENOVO GROUP</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>HK0992009065</isin>
+      <wkn>894983</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:45.960138Z</updatedAt>
+    </security>
+    <security id="31">
+      <uuid>ec2e2c5a-5144-4009-a0b8-6fca493d2896</uuid>
+      <name>A a r e a l B a n k A G N a m e n s - A k t i e n o . N .</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE000A37FT90</isin>
+      <wkn>A37FT9</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:47.081966Z</updatedAt>
+    </security>
+    <security id="32">
+      <uuid>f3383fa3-80fe-4242-826e-1dd65c928acb</uuid>
+      <name>J i n k o S o l a r H o l d i n g C o . L t d . R e g . S h s ( S p . A D R s ) / 4 D L - , 0 0 0 0 2</name>
+      <currencyCode>USD</currencyCode>
+      <isin>US47759T1007</isin>
+      <wkn>A0Q87R</wkn>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:25:46.213424Z</updatedAt>
+    </security>
+    <security id="33">
+      <uuid>f8b51f2d-f0af-4200-8185-34af05f188a1</uuid>
+      <onlineId>132c38c868aa46d6b6db85c4fc8b1611</onlineId>
+      <name>H S B C M S C I I N D O N E S I A U C I T S E T F R e g i s t e r e d S h a r e s o . N .</name>
+      <currencyCode>USD</currencyCode>
+      <isin>IE00B46G8275</isin>
+      <wkn>A1H8BN</wkn>
+      <feed>PORTFOLIO-REPORT</feed>
+      <prices>
+        <price t="2025-06-23" v="6151286400"/>
+        <price t="2025-06-24" v="6367600200"/>
+        <price t="2025-06-25" v="6295394400"/>
+        <price t="2025-06-26" v="6441606000"/>
+        <price t="2025-06-27" v="6434859200"/>
+      </prices>
+      <latest t="2025-06-27" v="6434859200">
+        <high>-1</high>
+        <low>-1</low>
+        <volume>-1</volume>
+      </latest>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+      <updatedAt>2025-03-21T13:26:42.979781Z</updatedAt>
+    </security>
+  </securities>
+  <watchlists/>
+  <accounts>
+    <account id="34">
+      <uuid>09491943-8713-4230-a6e2-e75eee151c58</uuid>
+      <name>EUR comdirect</name>
+      <currencyCode>EUR</currencyCode>
+      <isRetired>false</isRetired>
+      <transactions>
+        <account-transaction id="35">
+          <uuid>5f05c5ba-acfe-4f18-bec7-0756c9a3c27a</uuid>
+          <date>2023-12-19T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>6084</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._12_per_31.12.2023_022B91.pdf</source>
+          <updatedAt>2025-03-21T13:24:36.882050Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="36">
+          <uuid>11583bcc-ac1b-4b55-a590-b00694eeaf92</uuid>
+          <date>2023-12-19T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>6084</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._12_per_31.12.2023_022B91.pdf</source>
+          <updatedAt>2025-03-21T13:24:36.882049Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="37">
+          <uuid>9b3bafac-6663-4e61-b214-d847e8615947</uuid>
+          <date>2024-01-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>9</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._01_per_01.02.2024_2D871C.pdf</source>
+          <updatedAt>2024-07-29T20:54:13.792823Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="38">
+          <uuid>60408b4b-49aa-4c0a-b941-2b65281406f2</uuid>
+          <date>2024-01-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>54</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._01_per_01.02.2024_2D871C.pdf</source>
+          <updatedAt>2024-07-29T20:54:13.792822Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="39">
+          <uuid>0b98e567-df91-40e4-af1c-84ee1994c0ad</uuid>
+          <date>2024-01-25T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>4493</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._01_per_01.02.2024_2D871C.pdf</source>
+          <updatedAt>2024-07-29T20:54:13.792823Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="40">
+          <uuid>70deeb2d-7dd6-4d7f-a687-5288cddf66af</uuid>
+          <date>2024-01-29T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>109318</amount>
+          <security reference="10"/>
+          <shares>885000000000</shares>
+          <note>Vorabpauschale | Ref.-Nr.: 1CIKPY89M6M00BLF</note>
+          <source>Steuermitteilung_DBX1MR_(XTR.MSCI_BRAZIL_1C)_vom_02.01.2024_A7EEAA.pdf</source>
+          <updatedAt>2025-03-21T13:24:41.476844Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="41">
+          <uuid>815a2d48-9b2f-485f-9708-6d026bcb447f</uuid>
+          <date>2024-01-30T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>23431</amount>
+          <security reference="11"/>
+          <shares>1420000000000</shares>
+          <note>Vorabpauschale | Ref.-Nr.: 0KIKQ5DU4NM00HVT</note>
+          <source>Steuermitteilung_DBX0ES_(XTR.MSCI_MEXICO_1C)_vom_02.01.2024_BC568F.pdf</source>
+          <updatedAt>2025-03-21T13:24:41.553443Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="42">
+          <uuid>c43859d5-92bd-4f17-93c1-72d38500f21d</uuid>
+          <date>2024-02-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>45</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._01_per_01.02.2024_2D871C.pdf</source>
+          <updatedAt>2024-07-29T20:54:13.792824Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="43">
+          <uuid>5034d02c-c8bf-494d-9b6f-c16f3465ffd7</uuid>
+          <date>2024-02-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1000</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._01_per_01.02.2024_2D871C.pdf</source>
+          <updatedAt>2024-07-29T20:54:13.792823Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="44">
+          <uuid>694bb027-9078-422b-9433-95a5ead1a821</uuid>
+          <date>2024-02-07T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>8966</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._02_per_01.03.2024_C9444D.pdf</source>
+          <updatedAt>2024-07-29T20:54:54.090993Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="45">
+          <uuid>e7a33274-da02-4bec-8d51-dd33b6dcd789</uuid>
+          <date>2024-02-15T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>3818010</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._02_per_01.03.2024_C9444D.pdf</source>
+          <updatedAt>2024-07-29T20:54:54.090993Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="46">
+          <uuid>aaa1f3ed-e870-40c3-89bc-1efda8b10342</uuid>
+          <date>2024-02-15T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>3818010</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._02_per_01.03.2024_C9444D.pdf</source>
+          <updatedAt>2024-07-29T20:54:54.090992Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="47">
+          <uuid>bb225d2d-3c78-44a9-9111-c51f5f7b36ee</uuid>
+          <date>2024-03-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>45</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._02_per_01.03.2024_C9444D.pdf</source>
+          <updatedAt>2024-07-29T20:54:54.090994Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="48">
+          <uuid>342fcf3c-b56d-4320-b039-8555c3860632</uuid>
+          <date>2024-03-19T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>10000000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._03_per_03.04.2024_38D453.pdf</source>
+          <updatedAt>2024-07-29T20:55:35.022140Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="49">
+          <uuid>f528ae8f-bc0a-418d-88a0-3b641d028b42</uuid>
+          <date>2024-04-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>18</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._03_per_03.04.2024_38D453.pdf</source>
+          <updatedAt>2024-07-29T20:55:35.022140Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="50">
+          <uuid>01cb7609-6d38-4352-9857-108381e7a1f6</uuid>
+          <date>2024-04-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>490</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._04_per_02.05.2024_9EAEE1.pdf</source>
+          <updatedAt>2024-07-29T20:55:57.300012Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="51">
+          <uuid>ae54620a-0fbb-45c9-b781-1941866d0984</uuid>
+          <date>2024-04-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1790</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._04_per_02.05.2024_9EAEE1.pdf</source>
+          <updatedAt>2024-07-29T20:55:57.300012Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="52">
+          <uuid>496435ec-d217-4690-bb3e-b4ed72ef6e4a</uuid>
+          <date>2024-04-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>20000</amount>
+          <shares>0</shares>
+          <note>Devisen</note>
+          <source>Finanzreport_Nr._04_per_02.05.2024_9EAEE1.pdf</source>
+          <updatedAt>2025-03-21T13:24:44.528044Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="53">
+          <uuid>8a653d5e-6490-4ed3-b5f7-50015b40d634</uuid>
+          <date>2024-04-19T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>40530000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2024_9EAEE1.pdf</source>
+          <updatedAt>2024-07-29T20:55:57.300012Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="54">
+          <uuid>cbed3f4d-dc80-4ddb-aaa4-60adfc5f9c4f</uuid>
+          <date>2024-04-25T13:30</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>60076832</amount>
+          <security reference="2"/>
+          <crossEntry class="buysell" id="55">
+            <portfolio id="56">
+              <uuid>368ccc3e-114c-4acc-a67c-66d62dac73cf</uuid>
+              <name>secAcc</name>
+              <isRetired>false</isRetired>
+              <referenceAccount reference="34"/>
+              <transactions>
+                <portfolio-transaction id="57">
+                  <uuid>9aabf81a-6d17-42de-8ee6-9a65de225136</uuid>
+                  <date>2024-04-25T13:30</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>60076832</amount>
+                  <security reference="2"/>
+                  <crossEntry class="buysell" reference="55"/>
+                  <shares>425000000000</shares>
+                  <note>Ord.-Nr.: 000390693285-001 | R.-Nr.: 641136656981D015</note>
+                  <source>Wertpapierabrechnung_Kauf_4.250_St._DBX0AN_(XTR.II_EUR_OV.RATE_SW._1C)_vom_25.04.2024_3C4A42.pdf</source>
+                  <units>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="290"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="1502"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="2990"/>
+                    </unit>
+                  </units>
+                  <updatedAt>2024-07-30T15:43:43.436811Z</updatedAt>
+                  <type>BUY</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="58">
+                  <uuid>67b0d777-91f0-4696-aebe-bc2efeadde9a</uuid>
+                  <date>2024-09-05T14:37</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>31961317</amount>
+                  <security reference="2"/>
+                  <crossEntry class="buysell" id="59">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="58"/>
+                    <account reference="34"/>
+                    <accountTransaction id="60">
+                      <uuid>c1d050d8-d58c-4b63-880e-7bc0d7ae1dba</uuid>
+                      <date>2024-09-05T14:37</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>31961317</amount>
+                      <security reference="2"/>
+                      <crossEntry class="buysell" reference="59"/>
+                      <shares>0</shares>
+                      <note>Ord.-Nr.: 000409385425-001 | R.-Nr.: 652631898514DFD5</note>
+                      <source>Wertpapierabrechnung_Kauf_2.230_St._DBX0AN_(XTR.II_EUR_OV.RATE_SW._1C)_vom_05.09.2024_17F14F.pdf</source>
+                      <updatedAt>2025-03-21T13:25:46.418187Z</updatedAt>
+                      <type>BUY</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>223000000000</shares>
+                  <note>Ord.-Nr.: 000409385425-001 | R.-Nr.: 652631898514DFD5</note>
+                  <source>Wertpapierabrechnung_Kauf_2.230_St._DBX0AN_(XTR.II_EUR_OV.RATE_SW._1C)_vom_05.09.2024_17F14F.pdf</source>
+                  <units>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="290"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="799"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="2990"/>
+                    </unit>
+                  </units>
+                  <updatedAt>2025-03-21T13:25:46.418186Z</updatedAt>
+                  <type>BUY</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="61">
+                  <uuid>48eab1bb-9560-4c78-bcd8-5456cf629866</uuid>
+                  <date>2024-09-07T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>5373</amount>
+                  <security reference="3"/>
+                  <crossEntry class="buysell" id="62">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="61"/>
+                    <account reference="34"/>
+                    <accountTransaction id="63">
+                      <uuid>3ff88feb-ca2d-4ecb-b045-3fd133674f9b</uuid>
+                      <date>2024-09-07T00:00</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>5373</amount>
+                      <security reference="3"/>
+                      <crossEntry class="buysell" reference="62"/>
+                      <shares>0</shares>
+                      <note>vender 001	</note>
+                      <updatedAt>2024-09-07T08:41:44.590236Z</updatedAt>
+                      <type>BUY</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>50000000</shares>
+                  <note>vender 001	</note>
+                  <updatedAt>2024-10-21T08:36:11.645708Z</updatedAt>
+                  <type>BUY</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="64">
+                  <uuid>22e779b9-b3b8-489d-8424-f2ab2e3cb3ec</uuid>
+                  <date>2024-09-07T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>5373</amount>
+                  <security reference="3"/>
+                  <crossEntry class="buysell" id="65">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="64"/>
+                    <account reference="34"/>
+                    <accountTransaction id="66">
+                      <uuid>2af96b4d-f8c7-4fac-8472-bfd211916b61</uuid>
+                      <date>2024-09-07T00:00</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>5373</amount>
+                      <security reference="3"/>
+                      <crossEntry class="buysell" reference="65"/>
+                      <shares>0</shares>
+                      <note>venta01</note>
+                      <updatedAt>2024-10-05T14:50:58.959177Z</updatedAt>
+                      <type>SELL</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>50000000</shares>
+                  <note>venta01</note>
+                  <updatedAt>2024-10-21T08:36:11.645708Z</updatedAt>
+                  <type>SELL</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="67">
+                  <uuid>b3903530-fc7d-43dc-acb9-0e41e2cbb849</uuid>
+                  <date>2024-09-17T15:52</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>2427006</amount>
+                  <security reference="2"/>
+                  <crossEntry class="buysell" id="68">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="67"/>
+                    <account reference="34"/>
+                    <accountTransaction id="69">
+                      <uuid>390ac0fa-f0f6-4e1f-ab99-08b1c9bc9bcd</uuid>
+                      <date>2024-09-17T15:52</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>2427006</amount>
+                      <security reference="2"/>
+                      <crossEntry class="buysell" reference="68"/>
+                      <shares>0</shares>
+                      <note>Ord.-Nr.: 000410870389-001 | R.-Nr.: 653673177927DFD5</note>
+                      <source>Wertpapierabrechnung_Verkauf_170_St._DBX0AN_(XTR.II_EUR_OV.RATE_SW._1C)_vom_17.09.2024_2E1C8D.pdf</source>
+                      <updatedAt>2025-03-21T13:25:48.023955Z</updatedAt>
+                      <type>SELL</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>17000000000</shares>
+                  <note>Ord.-Nr.: 000410870389-001 | R.-Nr.: 653673177927DFD5</note>
+                  <source>Wertpapierabrechnung_Verkauf_170_St._DBX0AN_(XTR.II_EUR_OV.RATE_SW._1C)_vom_17.09.2024_2E1C8D.pdf</source>
+                  <units>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="290"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="250"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="2990"/>
+                    </unit>
+                    <unit type="TAX">
+                      <amount currency="EUR" amount="8573"/>
+                    </unit>
+                  </units>
+                  <updatedAt>2025-03-21T13:25:48.023955Z</updatedAt>
+                  <type>SELL</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="70">
+                  <uuid>36bb54f2-298c-4256-ad46-97d8792e0d26</uuid>
+                  <date>2024-09-24T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>738170</amount>
+                  <security reference="4"/>
+                  <crossEntry class="buysell" id="71">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="70"/>
+                    <account reference="34"/>
+                    <accountTransaction id="72">
+                      <uuid>6f88d630-cbcd-4f44-bc88-e334757a79b2</uuid>
+                      <date>2024-09-24T00:00</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>738170</amount>
+                      <security reference="4"/>
+                      <crossEntry class="buysell" reference="71"/>
+                      <shares>0</shares>
+                      <note>Ord.-Nr.: 000411073040 | R.-Nr.: 654306424104D095</note>
+                      <source>Wertpapierabrechnung_Verkauf_771_St._A1X3YY_(BASTEI_LUEBBE_AG_O.N.)_vom_24.09.2024_09A62C.pdf</source>
+                      <updatedAt>2025-03-21T13:25:48.023971Z</updatedAt>
+                      <type>SELL</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>77100000000</shares>
+                  <note>Ord.-Nr.: 000411073040 | R.-Nr.: 654306424104D095</note>
+                  <source>Wertpapierabrechnung_Verkauf_771_St._A1X3YY_(BASTEI_LUEBBE_AG_O.N.)_vom_24.09.2024_09A62C.pdf</source>
+                  <units>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="2990"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="250"/>
+                    </unit>
+                    <unit type="TAX">
+                      <amount currency="EUR" amount="0"/>
+                    </unit>
+                  </units>
+                  <updatedAt>2025-03-21T13:25:48.023971Z</updatedAt>
+                  <type>SELL</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="73">
+                  <uuid>97644134-019f-4993-8144-a4729cf01c1e</uuid>
+                  <date>2024-09-25T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>1904530</amount>
+                  <security reference="4"/>
+                  <crossEntry class="buysell" id="74">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="73"/>
+                    <account reference="34"/>
+                    <accountTransaction id="75">
+                      <uuid>32e36c48-a26e-46c0-a3fe-b1d49ab9f6b6</uuid>
+                      <date>2024-09-25T00:00</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>1904530</amount>
+                      <security reference="4"/>
+                      <crossEntry class="buysell" reference="74"/>
+                      <shares>0</shares>
+                      <note>Ord.-Nr.: 000411073040 | R.-Nr.: 654392620385D2B5</note>
+                      <source>Wertpapierabrechnung_Verkauf_1.987_St._A1X3YY_(BASTEI_LUEBBE_AG_O.N.)_vom_25.09.2024_E2C789.pdf</source>
+                      <updatedAt>2025-03-21T13:25:48.023975Z</updatedAt>
+                      <type>SELL</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>198700000000</shares>
+                  <note>Ord.-Nr.: 000411073040 | R.-Nr.: 654392620385D2B5</note>
+                  <source>Wertpapierabrechnung_Verkauf_1.987_St._A1X3YY_(BASTEI_LUEBBE_AG_O.N.)_vom_25.09.2024_E2C789.pdf</source>
+                  <units>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="2990"/>
+                    </unit>
+                    <unit type="TAX">
+                      <amount currency="EUR" amount="0"/>
+                    </unit>
+                  </units>
+                  <updatedAt>2025-03-21T13:25:48.023974Z</updatedAt>
+                  <type>SELL</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="76">
+                  <uuid>c0e26341-6aac-4e82-b407-d5ad3116ddfc</uuid>
+                  <date>2024-09-26T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>5605330</amount>
+                  <security reference="4"/>
+                  <crossEntry class="buysell" id="77">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="76"/>
+                    <account reference="34"/>
+                    <accountTransaction id="78">
+                      <uuid>16cebcdf-81e4-4f63-8495-c66368e41fc8</uuid>
+                      <date>2024-09-26T00:00</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>5605330</amount>
+                      <security reference="4"/>
+                      <crossEntry class="buysell" reference="77"/>
+                      <shares>0</shares>
+                      <note>Ord.-Nr.: 000411073040 | R.-Nr.: 654479035043DAF5</note>
+                      <source>Wertpapierabrechnung_Verkauf_5.842_St._A1X3YY_(BASTEI_LUEBBE_AG_O.N.)_vom_26.09.2024_9CFA44.pdf</source>
+                      <updatedAt>2025-03-21T13:25:48.023969Z</updatedAt>
+                      <type>SELL</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>584200000000</shares>
+                  <note>Ord.-Nr.: 000411073040 | R.-Nr.: 654479035043DAF5</note>
+                  <source>Wertpapierabrechnung_Verkauf_5.842_St._A1X3YY_(BASTEI_LUEBBE_AG_O.N.)_vom_26.09.2024_9CFA44.pdf</source>
+                  <units>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="2990"/>
+                    </unit>
+                    <unit type="TAX">
+                      <amount currency="EUR" amount="0"/>
+                    </unit>
+                  </units>
+                  <updatedAt>2025-03-21T13:25:48.023969Z</updatedAt>
+                  <type>SELL</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="79">
+                  <uuid>3b16eef1-2f49-4892-8f09-cd37a6b291f3</uuid>
+                  <date>2024-10-05T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>633000</amount>
+                  <security reference="3"/>
+                  <crossEntry class="buysell" id="80">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="79"/>
+                    <account reference="34"/>
+                    <accountTransaction id="81">
+                      <uuid>9de185e3-6328-4676-95c8-578bab58d459</uuid>
+                      <date>2024-10-05T00:00</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>633000</amount>
+                      <security reference="3"/>
+                      <crossEntry class="buysell" reference="80"/>
+                      <shares>0</shares>
+                      <note>share 001</note>
+                      <updatedAt>2024-10-05T14:39:57.169190Z</updatedAt>
+                      <type>BUY</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>5000000000</shares>
+                  <note>share 001</note>
+                  <updatedAt>2024-10-21T08:36:11.645709Z</updatedAt>
+                  <type>BUY</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="82">
+                  <uuid>4433f12e-b56b-4bca-a026-0c552ab1ac6d</uuid>
+                  <date>2024-10-21T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>60310</amount>
+                  <security reference="3"/>
+                  <crossEntry class="buysell" id="83">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="82"/>
+                    <account reference="34"/>
+                    <accountTransaction id="84">
+                      <uuid>ed1e8baa-0f5b-43ca-b9b2-a07c104b91d6</uuid>
+                      <date>2024-10-21T00:00</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>60310</amount>
+                      <security reference="3"/>
+                      <crossEntry class="buysell" reference="83"/>
+                      <shares>0</shares>
+                      <note>buy001</note>
+                      <updatedAt>2024-10-21T08:12:54.131622Z</updatedAt>
+                      <type>BUY</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>1000000000</shares>
+                  <note>buy001</note>
+                  <updatedAt>2024-10-21T08:12:54.131631Z</updatedAt>
+                  <type>BUY</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="85">
+                  <uuid>37015751-28b5-4cc0-8f25-55b1a67441cb</uuid>
+                  <date>2024-10-21T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>120620</amount>
+                  <security reference="3"/>
+                  <crossEntry class="portfolio-transfer" id="86">
+                    <portfolioFrom reference="56"/>
+                    <transactionFrom reference="85"/>
+                    <portfolioTo id="87">
+                      <uuid>871abcf4-46d5-44eb-9799-621b9b66de64</uuid>
+                      <name>Dollars (SA)</name>
+                      <isRetired>false</isRetired>
+                      <referenceAccount id="88">
+                        <uuid>97b3f337-ba4f-4a4e-a1d0-ac2ff7820a30</uuid>
+                        <name>Dollar</name>
+                        <currencyCode>USD</currencyCode>
+                        <isRetired>false</isRetired>
+                        <transactions>
+                          <account-transaction id="89">
+                            <uuid>02da0ff2-0fa4-457d-a289-ff062648bae9</uuid>
+                            <date>2024-09-07T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>111</amount>
+                            <security reference="3"/>
+                            <shares>50000000</shares>
+                            <note>dividendo01</note>
+                            <units>
+                              <unit type="GROSS_VALUE">
+                                <amount currency="USD" amount="111"/>
+                                <forex currency="EUR" amount="100"/>
+                                <exchangeRate>1.1103</exchangeRate>
+                              </unit>
+                            </units>
+                            <updatedAt>2024-10-21T08:36:11.645705Z</updatedAt>
+                            <type>DIVIDENDS</type>
+                          </account-transaction>
+                          <account-transaction id="90">
+                            <uuid>6de77642-67b1-447e-aadc-58c4dd0c2316</uuid>
+                            <date>2025-02-28T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>51944</amount>
+                            <security reference="33"/>
+                            <shares>310000000000</shares>
+                            <source>Steuermitteilung_A1H8BN_(HSBC_MSCI_INDONES._UC.ETF)_vom_28.02.2025_1A3BB4.pdf</source>
+                            <updatedAt>2025-06-28T12:01:55.298598Z</updatedAt>
+                            <type>TAXES</type>
+                          </account-transaction>
+                          <account-transaction id="91">
+                            <uuid>971746e4-7244-44fa-9729-c3948308d109</uuid>
+                            <date>2025-03-21T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>8369</amount>
+                            <security reference="7"/>
+                            <shares>172500000000</shares>
+                            <source>Steuermitteilung_592353_(ISHSTR-RUSSELL_2000_ETF)_vom_21.03.2025_E994BC.pdf</source>
+                            <updatedAt>2025-06-28T12:01:56.249957Z</updatedAt>
+                            <type>TAXES</type>
+                          </account-transaction>
+                          <account-transaction id="92">
+                            <uuid>7d4e9e53-3cdd-43d2-bb78-5dc3a71c51e4</uuid>
+                            <date>2025-04-25T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>121951</amount>
+                            <security reference="8"/>
+                            <shares>540000000000</shares>
+                            <source>Steuermitteilung_885166_(HYUNDAI_MOT.0,5N.VTG_GDRS)_vom_25.04.2025_A15988.pdf</source>
+                            <updatedAt>2025-06-28T12:01:56.506982Z</updatedAt>
+                            <type>TAXES</type>
+                          </account-transaction>
+                          <account-transaction id="93">
+                            <uuid>afe64585-5947-492b-8415-de1856a43ca8</uuid>
+                            <date>2025-06-12T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>15766</amount>
+                            <security reference="29"/>
+                            <shares>210000000000</shares>
+                            <source>Steuermitteilung_858326_(HONDA_MOTOR_ADR_1_3_O.N.)_vom_12.06.2025_0A55F8.pdf</source>
+                            <updatedAt>2025-06-28T12:01:56.824561Z</updatedAt>
+                            <type>TAXES</type>
+                          </account-transaction>
+                          <account-transaction id="94">
+                            <uuid>d8f30f06-e470-42c8-ba3a-cf2d8b9c65ff</uuid>
+                            <date>2025-06-20T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>10475</amount>
+                            <security reference="7"/>
+                            <shares>172500000000</shares>
+                            <source>Steuermitteilung_592353_(ISHSTR-RUSSELL_2000_ETF)_vom_20.06.2025_CAC530.pdf</source>
+                            <updatedAt>2025-06-28T12:01:56.897606Z</updatedAt>
+                            <type>TAXES</type>
+                          </account-transaction>
+                          <account-transaction id="95">
+                            <uuid>06a964a9-23ea-4874-affd-db023b5501c7</uuid>
+                            <date>2025-02-28T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>281356</amount>
+                            <security reference="33"/>
+                            <shares>310000000000</shares>
+                            <note>Ref.-Nr.: 1IIM226TP320058U</note>
+                            <source>Ertragsgutschrift_3.100_St._A1H8BN_(HSBC_MSCI_INDONES._UC.ETF)_vom_28.02.2025_A70AC7.pdf</source>
+                            <updatedAt>2025-06-28T12:03:54.022920Z</updatedAt>
+                            <type>DIVIDENDS</type>
+                          </account-transaction>
+                          <account-transaction id="96">
+                            <uuid>f9ec6fdc-70b0-4736-ba7f-1c6c0c8a2a75</uuid>
+                            <date>2025-03-21T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>79325</amount>
+                            <security reference="7"/>
+                            <shares>172500000000</shares>
+                            <note>Ref.-Nr.: 2MIM3G77JXE00163</note>
+                            <source>Ertragsgutschrift_1.725_St._592353_(ISHSTR-RUSSELL_2000_ETF)_vom_21.03.2025_A437F7.pdf</source>
+                            <updatedAt>2025-06-28T12:03:54.042056Z</updatedAt>
+                            <type>DIVIDENDS</type>
+                          </account-transaction>
+                          <account-transaction id="97">
+                            <uuid>b1f9fe38-2f0c-4b07-a13a-691938c4c817</uuid>
+                            <date>2025-04-25T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>1136731</amount>
+                            <security reference="8"/>
+                            <shares>540000000000</shares>
+                            <note>Ref.-Nr.: 26IM6YF3NA10014T</note>
+                            <source>Dividendengutschrift_5.400_St._885166_(HYUNDAI_MOT.0,5N.VTG_GDRS)_vom_25.04.2025_412AFE.pdf</source>
+                            <units>
+                              <unit type="FEE">
+                                <amount currency="USD" amount="10800"/>
+                              </unit>
+                            </units>
+                            <updatedAt>2025-06-28T12:03:54.363222Z</updatedAt>
+                            <type>DIVIDENDS</type>
+                          </account-transaction>
+                          <account-transaction id="98">
+                            <uuid>d4f4d9a0-6bfd-42e7-855c-05d4eb02769b</uuid>
+                            <date>2025-06-12T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>143549</amount>
+                            <security reference="29"/>
+                            <shares>210000000000</shares>
+                            <note>Ref.-Nr.: 20IM97EK5ES00E3W | Schlussdividende</note>
+                            <source>Dividendengutschrift_2.100_St._858326_(HONDA_MOTOR_ADR_1_3_O.N.)_vom_12.06.2025_825C54.pdf</source>
+                            <units>
+                              <unit type="FEE">
+                                <amount currency="USD" amount="5880"/>
+                              </unit>
+                            </units>
+                            <updatedAt>2025-06-28T12:03:54.532900Z</updatedAt>
+                            <type>DIVIDENDS</type>
+                          </account-transaction>
+                          <account-transaction id="99">
+                            <uuid>ee33ad42-a596-426b-a79e-d3464e5a0d06</uuid>
+                            <date>2025-06-18T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>328108</amount>
+                            <security reference="8"/>
+                            <shares>540000000000</shares>
+                            <note>Ref.-Nr.: 0IIM9EJRMYP000V0</note>
+                            <source>Dividendengutschrift_5.400_St._885166_(HYUNDAI_MOT.0,5N.VTG_GDRS)_vom_25.04.2025_16B2DD.pdf</source>
+                            <units>
+                              <unit type="FEE">
+                                <amount currency="USD" amount="14800"/>
+                              </unit>
+                            </units>
+                            <updatedAt>2025-06-28T12:03:54.539373Z</updatedAt>
+                            <type>DIVIDENDS</type>
+                          </account-transaction>
+                          <account-transaction id="100">
+                            <uuid>0f5fc0f1-7027-4dad-a2e9-a48f88009574</uuid>
+                            <date>2025-06-20T00:00</date>
+                            <currencyCode>USD</currencyCode>
+                            <amount>99295</amount>
+                            <security reference="7"/>
+                            <shares>172500000000</shares>
+                            <note>Ref.-Nr.: 0EIM9GX7PX3005RT</note>
+                            <source>Ertragsgutschrift_1.725_St._592353_(ISHSTR-RUSSELL_2000_ETF)_vom_20.06.2025_973A0A.pdf</source>
+                            <updatedAt>2025-06-28T12:03:54.545137Z</updatedAt>
+                            <type>DIVIDENDS</type>
+                          </account-transaction>
+                        </transactions>
+                        <attributes>
+                          <map/>
+                        </attributes>
+                        <updatedAt>2024-07-30T15:54:27.195204Z</updatedAt>
+                      </referenceAccount>
+                      <transactions>
+                        <portfolio-transaction id="101">
+                          <uuid>2a25ab30-336d-4a72-8e6b-683395c06156</uuid>
+                          <date>2024-10-21T00:00</date>
+                          <currencyCode>EUR</currencyCode>
+                          <amount>120620</amount>
+                          <security reference="3"/>
+                          <crossEntry class="portfolio-transfer" reference="86"/>
+                          <shares>2000000000</shares>
+                          <note>delibery001</note>
+                          <updatedAt>2024-10-21T09:38:53.762196Z</updatedAt>
+                          <type>TRANSFER_IN</type>
+                        </portfolio-transaction>
+                      </transactions>
+                      <attributes>
+                        <map/>
+                      </attributes>
+                      <updatedAt>2024-09-07T11:21:03.763671Z</updatedAt>
+                    </portfolioTo>
+                    <transactionTo reference="101"/>
+                  </crossEntry>
+                  <shares>2000000000</shares>
+                  <note>delibery001</note>
+                  <updatedAt>2024-10-21T09:38:53.762196Z</updatedAt>
+                  <type>TRANSFER_OUT</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="102">
+                  <uuid>4fe55d66-d194-4278-8e90-fe15edadbfb9</uuid>
+                  <date>2024-10-21T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>663410</amount>
+                  <security reference="3"/>
+                  <crossEntry class="buysell" id="103">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="102"/>
+                    <account reference="34"/>
+                    <accountTransaction id="104">
+                      <uuid>edf3f56a-1f75-4f20-bd8c-b07b51555613</uuid>
+                      <date>2024-10-21T00:00</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>663410</amount>
+                      <security reference="3"/>
+                      <crossEntry class="buysell" reference="103"/>
+                      <shares>0</shares>
+                      <note>SELL001</note>
+                      <updatedAt>2024-10-21T08:33:08.849076Z</updatedAt>
+                      <type>SELL</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>11000000000</shares>
+                  <note>SELL001</note>
+                  <updatedAt>2024-10-21T08:33:08.849079Z</updatedAt>
+                  <type>SELL</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="105">
+                  <uuid>42e304e6-c92a-4024-ae26-26d7b984ea24</uuid>
+                  <date>2024-12-10T10:11</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>24000010</amount>
+                  <security reference="2"/>
+                  <crossEntry class="buysell" id="106">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="105"/>
+                    <account reference="34"/>
+                    <accountTransaction id="107">
+                      <uuid>63f4409d-1e21-43d7-80ee-793cf6ef9f39</uuid>
+                      <date>2024-12-10T10:11</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>24000010</amount>
+                      <security reference="2"/>
+                      <crossEntry class="buysell" reference="106"/>
+                      <shares>0</shares>
+                      <note>Ord.-Nr.: 000423992412-001 | R.-Nr.: 660910319508DF55</note>
+                      <source>Wertpapierabrechnung_Kauf_1.660_St._DBX0AN_(XTR.II_EUR_OV.RATE_SW._1C)_vom_10.12.2024_7822E2.pdf</source>
+                      <updatedAt>2025-03-21T13:25:47.504765Z</updatedAt>
+                      <type>BUY</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>166000000000</shares>
+                  <note>Ord.-Nr.: 000423992412-001 | R.-Nr.: 660910319508DF55</note>
+                  <source>Wertpapierabrechnung_Kauf_1.660_St._DBX0AN_(XTR.II_EUR_OV.RATE_SW._1C)_vom_10.12.2024_7822E2.pdf</source>
+                  <units>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="290"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="600"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="2990"/>
+                    </unit>
+                  </units>
+                  <updatedAt>2025-03-21T13:25:47.504765Z</updatedAt>
+                  <type>BUY</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="108">
+                  <uuid>dd92f3fc-3126-4250-a7bb-2f32f1dad9b2</uuid>
+                  <date>2024-12-30T00:00</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>29583920</amount>
+                  <security reference="15"/>
+                  <crossEntry class="buysell" id="109">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="108"/>
+                    <account reference="34"/>
+                    <accountTransaction id="110">
+                      <uuid>b5060161-167f-4c89-8f33-14afa58704f0</uuid>
+                      <date>2024-12-30T00:00</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>29583920</amount>
+                      <security reference="15"/>
+                      <crossEntry class="buysell" reference="109"/>
+                      <shares>0</shares>
+                      <note>Ord.-Nr.: 000426721354 | R.-Nr.: 662687168701D115</note>
+                      <source>Wertpapierabrechnung_Kauf_1.000_St._840400_(ALLIANZ_SE_NA_O.N.)_vom_30.12.2024_E70A90.pdf</source>
+                      <updatedAt>2025-03-21T13:25:47.983451Z</updatedAt>
+                      <type>BUY</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>100000000000</shares>
+                  <note>Ord.-Nr.: 000426721354 | R.-Nr.: 662687168701D115</note>
+                  <source>Wertpapierabrechnung_Kauf_1.000_St._840400_(ALLIANZ_SE_NA_O.N.)_vom_30.12.2024_E70A90.pdf</source>
+                  <units>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="2990"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="740"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="190"/>
+                    </unit>
+                  </units>
+                  <updatedAt>2025-03-21T13:25:47.983450Z</updatedAt>
+                  <type>BUY</type>
+                </portfolio-transaction>
+                <portfolio-transaction id="111">
+                  <uuid>3e05eaf3-0bec-4615-9314-684777351aac</uuid>
+                  <date>2024-12-30T12:27</date>
+                  <currencyCode>EUR</currencyCode>
+                  <amount>29596270</amount>
+                  <security reference="15"/>
+                  <crossEntry class="buysell" id="112">
+                    <portfolio reference="56"/>
+                    <portfolioTransaction reference="111"/>
+                    <account reference="34"/>
+                    <accountTransaction id="113">
+                      <uuid>8fa9b934-9d59-425f-87ce-597b9ca111f3</uuid>
+                      <date>2024-12-30T12:27</date>
+                      <currencyCode>EUR</currencyCode>
+                      <amount>29596270</amount>
+                      <security reference="15"/>
+                      <crossEntry class="buysell" reference="112"/>
+                      <shares>0</shares>
+                      <note>Ord.-Nr.: 000426719408-001 | R.-Nr.: 662646485681DC35</note>
+                      <source>Wertpapierabrechnung_Verkauf_1.000_St._840400_(ALLIANZ_SE_NA_O.N.)_vom_30.12.2024_0BA295.pdf; Wertpapierabrechnung_Kauf_1.000_St._840400_(ALLIANZ_SE_NA_O.N.)_vom_30.12.2024_E70A90.pdf</source>
+                      <updatedAt>2025-03-21T13:25:48.023966Z</updatedAt>
+                      <type>SELL</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>100000000000</shares>
+                  <note>Ord.-Nr.: 000426719408-001 | R.-Nr.: 662646485681DC35</note>
+                  <source>Wertpapierabrechnung_Verkauf_1.000_St._840400_(ALLIANZ_SE_NA_O.N.)_vom_30.12.2024_0BA295.pdf; Wertpapierabrechnung_Kauf_1.000_St._840400_(ALLIANZ_SE_NA_O.N.)_vom_30.12.2024_E70A90.pdf</source>
+                  <units>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="740"/>
+                    </unit>
+                    <unit type="FEE">
+                      <amount currency="EUR" amount="2990"/>
+                    </unit>
+                    <unit type="TAX">
+                      <amount currency="EUR" amount="0"/>
+                    </unit>
+                  </units>
+                  <updatedAt>2025-03-21T13:25:48.023966Z</updatedAt>
+                  <type>SELL</type>
+                </portfolio-transaction>
+              </transactions>
+              <attributes>
+                <map/>
+              </attributes>
+              <updatedAt>2024-07-29T15:50:54.667690Z</updatedAt>
+            </portfolio>
+            <portfolioTransaction reference="57"/>
+            <account reference="34"/>
+            <accountTransaction reference="54"/>
+          </crossEntry>
+          <shares>0</shares>
+          <note>Ord.-Nr.: 000390693285-001 | R.-Nr.: 641136656981D015</note>
+          <source>Wertpapierabrechnung_Kauf_4.250_St._DBX0AN_(XTR.II_EUR_OV.RATE_SW._1C)_vom_25.04.2024_3C4A42.pdf</source>
+          <updatedAt>2024-07-30T15:43:43.436811Z</updatedAt>
+          <type>BUY</type>
+        </account-transaction>
+        <account-transaction id="114">
+          <uuid>481d1217-208c-4339-9366-d36e867a7440</uuid>
+          <date>2024-04-30T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2229145</amount>
+          <security reference="12"/>
+          <shares>890500000000</shares>
+          <note>Ref.-Nr.: 24IKW65CNN000BXI</note>
+          <source>Dividendengutschrift_8.905_St._BASF11_(BASF_SE_NA_O.N.)_vom_30.04.2024_0B8A8A.pdf; Steuermitteilung_BASF11_(BASF_SE_NA_O.N.)_vom_30.04.2024_7B25D8.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="798555"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:24:45.611150Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="115">
+          <uuid>abadbae3-bc5e-4a1f-8fb1-03eba6dfc21a</uuid>
+          <date>2024-05-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>18</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._04_per_02.05.2024_9EAEE1.pdf</source>
+          <updatedAt>2024-07-29T20:55:57.300013Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="116">
+          <uuid>df48f4b8-1dbb-407f-b1d8-784fdc09d7f8</uuid>
+          <date>2024-05-02T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>46771</amount>
+          <security reference="13"/>
+          <shares>577500000000</shares>
+          <note>Ref.-Nr.: 10IKW8LZD3Y0088R</note>
+          <source>Dividendengutschrift_5.775_St._BAY001_(BAYER_AG_NA_O.N.)_vom_02.05.2024_AA84E2.pdf; Steuermitteilung_BAY001_(BAYER_AG_NA_O.N.)_vom_02.05.2024_40DBA9.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="16754"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:24:45.611119Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="117">
+          <uuid>6524dbfb-99dc-4b76-944c-129c878321e4</uuid>
+          <date>2024-05-06T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>3221094</amount>
+          <security reference="14"/>
+          <shares>12500000000000</shares>
+          <note>Ref.-Nr.: 2CIKWFOX72D006O5</note>
+          <source>Dividendengutschrift_125.000_St._CBK100_(COMMERZBANK_AG)_vom_06.05.2024_6EFACB.pdf; Steuermitteilung_CBK100_(COMMERZBANK_AG)_vom_06.05.2024_CE6CDA.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="1153906"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:24:45.610908Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="118">
+          <uuid>7452ebd3-271b-476d-992a-7fee58775de2</uuid>
+          <date>2024-05-13T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>5110606</amount>
+          <security reference="15"/>
+          <shares>503000000000</shares>
+          <note>Ref.-Nr.: 1YIKWWC4N6D00LHU</note>
+          <source>Dividendengutschrift_5.030_St._840400_(ALLIANZ_SE_NA_O.N.)_vom_13.05.2024_6C25AA.pdf; Steuermitteilung_840400_(ALLIANZ_SE_NA_O.N.)_vom_13.05.2024_A5F3AA.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="1830794"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:24:45.611113Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="119">
+          <uuid>2237d03d-6069-4397-8679-4061a38c9c17</uuid>
+          <date>2024-05-14T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>531000</amount>
+          <security reference="17"/>
+          <shares>300000000000</shares>
+          <note>Ref.-Nr.: 2MIKX3GHWB50035D</note>
+          <source>Dividendengutschrift_3.000_St._A0Z2ZZ_(FREENET_AG_NA_O.N.)_vom_14.05.2024_6F4D32.pdf</source>
+          <updatedAt>2025-03-21T13:24:44.801990Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="120">
+          <uuid>f21321c1-17cb-4490-9c5f-4e81888613a6</uuid>
+          <date>2024-05-14T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>5304939</amount>
+          <security reference="16"/>
+          <shares>1359500000000</shares>
+          <note>Ref.-Nr.: 2MIKX3GHWB500EX4</note>
+          <source>Dividendengutschrift_13.595_St._710000_(MERCEDES-BENZ_GRP_NA_O.N.)_vom_14.05.2024_900FA2.pdf; Steuermitteilung_710000_(MERCEDES-BENZ_GRP_NA_O.N.)_vom_14.05.2024_F50576.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="1900411"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:24:45.611124Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="121">
+          <uuid>ea50bf06-0056-4802-bcc5-9af3445ebfe1</uuid>
+          <date>2024-05-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>950815</amount>
+          <security reference="19"/>
+          <shares>679700000000</shares>
+          <note>Ref.-Nr.: 0KIKXK3WTT0009ZZ</note>
+          <source>Dividendengutschrift_6.797_St._DTR0CK_(DAIMLER_TRUCK_HLDG_NA_ON)_vom_21.05.2024_CFB527.pdf; Steuermitteilung_DTR0CK_(DAIMLER_TRUCK_HLDG_NA_ON)_vom_21.05.2024_52C89B.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="340615"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:24:45.610960Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="122">
+          <uuid>e2feb49b-eca4-4110-a8cc-da2f7aebd776</uuid>
+          <date>2024-05-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1373788</amount>
+          <security reference="18"/>
+          <shares>4146500000000</shares>
+          <note>Ref.-Nr.: 0KIKXK3WTT00179L</note>
+          <source>Dividendengutschrift_41.465_St._514000_(DEUTSCHE_BANK_AG_NA_O.N.)_vom_21.05.2024_137BFE.pdf; Steuermitteilung_514000_(DEUTSCHE_BANK_AG_NA_O.N.)_vom_21.05.2024_2D955A.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="492137"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:24:45.611159Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="123">
+          <uuid>8647c80d-97be-4dff-bf57-5e4ea61a7524</uuid>
+          <date>2024-05-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2078434</amount>
+          <security reference="20"/>
+          <shares>470500000000</shares>
+          <note>Ref.-Nr.: 0KIKXK3WTT000GFX</note>
+          <source>Dividendengutschrift_4.705_St._519000_(BAY.MOTOREN_WERKE_AG_ST)_vom_21.05.2024_DF7E29.pdf; Steuermitteilung_519000_(BAY.MOTOREN_WERKE_AG_ST)_vom_21.05.2024_C6C4D5.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="744566"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:24:45.610950Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="124">
+          <uuid>767b1db9-09a3-4444-ba00-3a13c06382a9</uuid>
+          <date>2024-06-04T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1891065</amount>
+          <security reference="21"/>
+          <shares>283500000000</shares>
+          <note>Ref.-Nr.: 0CIKYHLJN430073K</note>
+          <source>Dividendengutschrift_2.835_St._766403_(VOLKSWAGEN_AG_VZO_O.N.)_vom_04.06.2024_4DED01.pdf; Steuermitteilung_766403_(VOLKSWAGEN_AG_VZO_O.N.)_vom_04.06.2024_0A596B.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="677445"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:24:45.611155Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="125">
+          <uuid>6c8dde2a-4b3b-46cb-9bf4-f5a8ca99f2ff</uuid>
+          <date>2024-06-06T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>7652</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._06_per_01.07.2024_7A0491.pdf</source>
+          <updatedAt>2024-07-29T15:55:38.857711Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="126">
+          <uuid>73491e7d-b65d-4e65-9e45-b3807078a65c</uuid>
+          <date>2024-06-06T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>40103</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._06_per_01.07.2024_7A0491.pdf</source>
+          <updatedAt>2024-07-29T15:55:38.857712Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="127">
+          <uuid>ba7dad47-2dfa-4b94-8f19-c2d44273b826</uuid>
+          <date>2024-07-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>231325</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._06_per_01.07.2024_7A0491.pdf</source>
+          <updatedAt>2024-07-29T15:55:38.857713Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="128">
+          <uuid>3e9e000e-3138-42a4-a72d-c914ba07577a</uuid>
+          <date>2024-07-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>578312</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._06_per_01.07.2024_7A0491.pdf</source>
+          <updatedAt>2024-07-29T15:55:38.857712Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="129">
+          <uuid>0df99765-2879-44b2-ba74-257c44c09f8f</uuid>
+          <date>2024-08-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>532198</amount>
+          <security reference="30"/>
+          <shares>21000000000000</shares>
+          <note>Ref.-Nr.: 0MIL38GTMH3000L0</note>
+          <source>Dividendengutschrift_210.000_St._894983_(LENOVO_GROUP)_vom_14.08.2024_AD47BE.pdf; Steuermitteilung_894983_(LENOVO_GROUP)_vom_14.08.2024_181AA0.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="190652"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:25:48.023988Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="130">
+          <uuid>e6cce227-dd91-4d62-9bec-36485e2a01a9</uuid>
+          <date>2024-08-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>546535</amount>
+          <security reference="30"/>
+          <shares>60200000000000</shares>
+          <source>Steuermitteilung_894983_(LENOVO_GROUP)_vom_14.08.2024_6F5CBD.pdf</source>
+          <updatedAt>2025-03-21T13:25:45.983547Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="131">
+          <uuid>62da3716-f107-44f8-ae5f-8c5dcfadf3a5</uuid>
+          <date>2024-08-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2072170</amount>
+          <security reference="30"/>
+          <shares>60200000000000</shares>
+          <note>Ref.-Nr.: 0MIL38GTMH3000L1</note>
+          <source>Dividendengutschrift_602.000_St._894983_(LENOVO_GROUP)_vom_14.08.2024_5BD9D9.pdf</source>
+          <updatedAt>2025-03-21T13:25:45.998476Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="132">
+          <uuid>86a271ac-2a70-4277-ae83-8173cbd75cea</uuid>
+          <date>2024-09-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>18</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._08_per_02.09.2024_22DE9E.pdf</source>
+          <updatedAt>2025-03-21T13:25:46.312453Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="133">
+          <uuid>51b1f3a2-e6e6-4ee4-9c79-db92a07f05bd</uuid>
+          <date>2024-09-04T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>100000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._09_per_01.10.2024_F100B7.pdf</source>
+          <updatedAt>2024-10-05T14:50:18.651945Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="134">
+          <uuid>e9a61df0-a426-4a34-890d-2fadc6525906</uuid>
+          <date>2024-09-04T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>3000000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._09_per_01.10.2024_F100B7.pdf</source>
+          <updatedAt>2024-10-05T14:50:18.651944Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="135">
+          <uuid>44435319-50d2-434f-9fb4-6f75a0f52ffc</uuid>
+          <date>2024-09-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>3000000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._09_per_01.10.2024_F100B7.pdf</source>
+          <updatedAt>2024-10-05T14:50:18.651946Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction reference="60"/>
+        <account-transaction reference="63"/>
+        <account-transaction reference="66"/>
+        <account-transaction id="136">
+          <uuid>770e6455-d516-4d52-bed6-07137d648a92</uuid>
+          <date>2024-09-12T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>6084</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._09_per_01.10.2024_F100B7.pdf</source>
+          <updatedAt>2024-10-05T14:50:18.651947Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="137">
+          <uuid>1f2899db-ac9c-459b-bb58-99d6ebe4ac17</uuid>
+          <date>2024-09-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>189953</amount>
+          <security reference="4"/>
+          <shares>860000000000</shares>
+          <note>Ref.-Nr.: 26IL58DZWQ90002P</note>
+          <source>Dividendengutschrift_8.600_St._A1X3YY_(BASTEI_LUEBBE_AG_O.N.)_vom_16.09.2024_89434F.pdf; Steuermitteilung_A1X3YY_(BASTEI_LUEBBE_AG_O.N.)_vom_16.09.2024_1C3A78.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="68047"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:25:48.024063Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction reference="69"/>
+        <account-transaction reference="72"/>
+        <account-transaction reference="75"/>
+        <account-transaction reference="78"/>
+        <account-transaction id="138">
+          <uuid>3db0d2eb-5b47-4023-bf43-3a42612f2a34</uuid>
+          <date>2024-09-30T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>100000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._09_per_01.10.2024_F100B7.pdf</source>
+          <updatedAt>2024-10-05T14:50:18.651947Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="139">
+          <uuid>c9668439-a14c-498c-8184-885364bc0f6d</uuid>
+          <date>2024-10-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>9</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._09_per_01.10.2024_F100B7.pdf</source>
+          <updatedAt>2024-10-05T14:50:18.651948Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="140">
+          <uuid>c926ed5d-afd1-4438-bae0-4650fbf03b4b</uuid>
+          <date>2024-10-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>63</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._09_per_01.10.2024_F100B7.pdf</source>
+          <updatedAt>2024-10-05T14:50:18.651948Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction reference="81"/>
+        <account-transaction id="141">
+          <uuid>6f6faa14-e0eb-4257-8d30-1b97886ed855</uuid>
+          <date>2024-10-07T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>238</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._10_per_01.11.2024_A0ABA6.pdf</source>
+          <updatedAt>2025-03-21T13:25:47.279044Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="142">
+          <uuid>8d2b7b66-c572-4514-9198-fa32dd949cf3</uuid>
+          <date>2024-10-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2000</amount>
+          <security reference="3"/>
+          <shares>0</shares>
+          <note>tax001</note>
+          <updatedAt>2024-10-21T09:37:43.052268Z</updatedAt>
+          <type>TAX_REFUND</type>
+        </account-transaction>
+        <account-transaction id="143">
+          <uuid>072adf51-2c94-4c4b-a002-fe4e3c4563a7</uuid>
+          <date>2024-10-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>10000</amount>
+          <security reference="3"/>
+          <shares>1000000000</shares>
+          <note>DIVIDEND001</note>
+          <updatedAt>2024-10-21T08:35:55.640189Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction reference="84"/>
+        <account-transaction reference="104"/>
+        <account-transaction id="144">
+          <uuid>d62083d3-1765-4c62-aa1b-619c40ed0146</uuid>
+          <date>2024-11-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>21317</amount>
+          <security reference="31"/>
+          <shares>400000000000</shares>
+          <note>Ref.-Nr.: 0QIL8H6689O000E0</note>
+          <source>Zinsgutschrift_4.000_St._A37FT9_(AAREAL_BANK_AG_NA_O.N.)_vom_01.11.2024_704817.pdf; Steuermitteilung_A37FT9_(AAREAL_BANK_AG_NA_O.N.)_vom_01.11.2024_1D1ADB.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="0"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:25:48.024057Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="145">
+          <uuid>fd193c46-9849-40a5-a5cf-695b3533f80c</uuid>
+          <date>2024-11-15T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>4451</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._11_per_02.12.2024_FDC1B9.pdf</source>
+          <updatedAt>2025-03-21T13:25:47.379398Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction reference="107"/>
+        <account-transaction id="146">
+          <uuid>cf8adbab-8ec9-45bb-8f3e-dda829cbbd0f</uuid>
+          <date>2024-12-11T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1490</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._12_per_31.12.2024_EF379D.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.583231Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="147">
+          <uuid>f8295faa-89fb-4a30-9a09-b58512d7b2ac</uuid>
+          <date>2024-12-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>56743</amount>
+          <security reference="30"/>
+          <shares>21000000000000</shares>
+          <source>Steuermitteilung_894983_(LENOVO_GROUP)_vom_12.12.2024_E77AF5.pdf</source>
+          <updatedAt>2025-03-21T13:25:47.724287Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="148">
+          <uuid>46391114-fd3b-44ec-8af4-7356474b47bc</uuid>
+          <date>2024-12-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>215141</amount>
+          <security reference="30"/>
+          <shares>21000000000000</shares>
+          <note>Ref.-Nr.: 0AILB68N7OV00HRE</note>
+          <source>Dividendengutschrift_210.000_St._894983_(LENOVO_GROUP)_vom_12.12.2024_5C7BCF.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.378634Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="149">
+          <uuid>1b70301a-c473-4168-ae27-64170d877754</uuid>
+          <date>2024-12-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>454072</amount>
+          <security reference="30"/>
+          <shares>21000000000000</shares>
+          <note>Ref.-Nr.: 0AILB68N7OV00HRE</note>
+          <source>Dividendengutschrift_210.000_St._894983_(LENOVO_GROUP)_vom_12.12.2024_5C7BCF.pdf; Steuermitteilung_894983_(LENOVO_GROUP)_vom_12.12.2024_5CAEE1.pdf</source>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="162664"/>
+            </unit>
+          </units>
+          <updatedAt>2025-03-21T13:25:48.023999Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="150">
+          <uuid>1f3edd31-6ea9-42ce-8ca3-8f3acf559cb5</uuid>
+          <date>2024-12-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>616736</amount>
+          <security reference="30"/>
+          <shares>60200000000000</shares>
+          <note>Ref.-Nr.: 0AILB68N7OV00HRF</note>
+          <source>Dividendengutschrift_602.000_St._894983_(LENOVO_GROUP)_vom_12.12.2024_8263BF.pdf</source>
+          <updatedAt>2025-03-21T13:25:47.745723Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction reference="110"/>
+        <account-transaction reference="113"/>
+        <account-transaction id="151">
+          <uuid>31091198-4c8d-4088-a42c-eb8bd9d1205b</uuid>
+          <date>2025-01-01T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>9</amount>
+          <shares>0</shares>
+          <note>Entgelte</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692470Z</updatedAt>
+          <type>FEES</type>
+        </account-transaction>
+        <account-transaction id="152">
+          <uuid>2b612327-1f16-4269-bdc4-ab7558e69e32</uuid>
+          <date>2025-01-02T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2500000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692469Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="153">
+          <uuid>04913b38-f6ec-42df-81b2-1d05d9b6a922</uuid>
+          <date>2025-01-09T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1000000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692469Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="154">
+          <uuid>089fa762-e2e2-4180-8922-6c1e879af469</uuid>
+          <date>2025-01-23T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>15931</amount>
+          <shares>0</shares>
+          <note>Steuerverrechnung</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692470Z</updatedAt>
+          <type>TAX_REFUND</type>
+        </account-transaction>
+        <account-transaction id="155">
+          <uuid>0df00763-2428-4080-a859-0a82911eac85</uuid>
+          <date>2025-01-28T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>50662500</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692469Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="156">
+          <uuid>98509c32-6f37-480f-ae6d-6acad6f8f5eb</uuid>
+          <date>2025-02-04T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>20274462</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._02_per_03.03.2025_82662B.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.759574Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="157">
+          <uuid>305657dc-6826-4f75-8e2e-7e7d47dbad77</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1962473</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692470Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="158">
+          <uuid>4016760d-6ce5-45d7-b0bd-db712cd529be</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>3535580</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692470Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="159">
+          <uuid>d2011caf-b8c5-45bb-9833-70e8a1030e18</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>5000000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._02_per_03.03.2025_82662B.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.759574Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="160">
+          <uuid>457f3b64-7f6f-40c9-9a1b-9d028c003a9c</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>5718290</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692469Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="161">
+          <uuid>6e63296a-4673-4325-8c74-776faf642e57</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>6832943</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692470Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="162">
+          <uuid>8effc9d4-7b88-4de3-b85d-b4e487993780</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>7943466</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692469Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="163">
+          <uuid>9d755330-0305-4f7c-9999-0b6bd3da47f3</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>8192845</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692469Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="164">
+          <uuid>663dbe58-efc1-4d1d-ae55-a1098e609b77</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>10000000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._02_per_03.03.2025_82662B.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.759574Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="165">
+          <uuid>f43ed9f5-d86e-4bb3-b473-08384f07ad05</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>10000000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._02_per_03.03.2025_82662B.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.759574Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="166">
+          <uuid>9e4bc795-c5c5-4b43-99ce-e39e0543e1d8</uuid>
+          <date>2025-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>312460400</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._01_per_03.02.2025_ACE00F.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.692469Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="167">
+          <uuid>aefa68ff-c38a-4b05-8f1c-a8f63afdc60a</uuid>
+          <date>2025-02-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>700000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._02_per_03.03.2025_82662B.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.759574Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="168">
+          <uuid>124a0c83-631d-4489-8458-f8c288b4e1fb</uuid>
+          <date>2025-02-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>115000000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._02_per_03.03.2025_82662B.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.759574Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="169">
+          <uuid>64e20466-c1df-4d00-90e6-1541ff2d1475</uuid>
+          <date>2025-02-27T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>74980</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._02_per_03.03.2025_82662B.pdf</source>
+          <updatedAt>2025-03-21T13:26:23.759574Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="170">
+          <uuid>2cc3159d-7d91-49bf-9e0b-ba74f6319529</uuid>
+          <date>2025-03-31T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>7295</amount>
+          <shares>0</shares>
+          <note>31.12.2024 bis 31.03.2025</note>
+          <source>Finanzreport_Nr._03_per_01.04.2025_249A39.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.906078Z</updatedAt>
+          <type>INTEREST_CHARGE</type>
+        </account-transaction>
+        <account-transaction id="171">
+          <uuid>0f7ab2d4-2f6a-4bef-a0f9-d3e12f303596</uuid>
+          <date>2025-04-07T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>265843</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993193Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="172">
+          <uuid>8c6f8064-33b0-49ce-a6c4-5f76a1c37aab</uuid>
+          <date>2025-04-07T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>933823</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993193Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="173">
+          <uuid>4336cc94-06f8-4e2d-b0bb-79e03b696d3f</uuid>
+          <date>2025-04-07T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>941603</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993192Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="174">
+          <uuid>ada3afb5-49ec-44ea-906d-72911e3d1a87</uuid>
+          <date>2025-04-07T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1114065</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993193Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="175">
+          <uuid>729fada8-072c-4481-a77e-be1db9dbecf7</uuid>
+          <date>2025-04-07T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>43294800</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993192Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="176">
+          <uuid>f6e632f9-fb7a-43d3-a2a0-23f2a2be93a0</uuid>
+          <date>2025-04-08T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2313731</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993192Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="177">
+          <uuid>f66cb67e-83e6-491d-b37c-8673136a4010</uuid>
+          <date>2025-04-10T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>10100000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993193Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="178">
+          <uuid>b2ece101-3910-48eb-916f-25b3d62099df</uuid>
+          <date>2025-04-14T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>8000</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993194Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="179">
+          <uuid>422b4544-e4e6-4dae-aad9-883df53bef1f</uuid>
+          <date>2025-04-23T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>76405</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993194Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="180">
+          <uuid>a944cdf2-3f0e-4594-99c3-8a5b543f10ca</uuid>
+          <date>2025-04-23T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>89139</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993194Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="181">
+          <uuid>0bf15fc6-410d-46a6-8a02-f5eeeccabc2e</uuid>
+          <date>2025-05-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>806579</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._05_per_02.06.2025_A09B55.pdf</source>
+          <updatedAt>2025-06-28T11:43:11.088468Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="182">
+          <uuid>6150281b-857c-4d69-8c2d-6d2ccbbba2ee</uuid>
+          <date>2025-05-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>927159</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._05_per_02.06.2025_A09B55.pdf</source>
+          <updatedAt>2025-06-28T11:43:11.088469Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="183">
+          <uuid>183a2082-eb33-4de1-82c4-9a950ce8b111</uuid>
+          <date>2025-05-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>952457</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._05_per_02.06.2025_A09B55.pdf</source>
+          <updatedAt>2025-06-28T11:43:11.088469Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="184">
+          <uuid>888cae9a-006e-442d-a451-bc1a658368da</uuid>
+          <date>2025-05-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1051679</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._05_per_02.06.2025_A09B55.pdf</source>
+          <updatedAt>2025-06-28T11:43:11.088468Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="185">
+          <uuid>f71d4834-4e4b-4742-a988-594e58ec132c</uuid>
+          <date>2025-05-22T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2602664</amount>
+          <shares>0</shares>
+          <note>Übertrag</note>
+          <source>Finanzreport_Nr._05_per_02.06.2025_A09B55.pdf</source>
+          <updatedAt>2025-06-28T11:43:11.088468Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="186">
+          <uuid>9b0d8c96-bece-4fa7-bf60-e059bdebba76</uuid>
+          <date>2025-05-26T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>723048</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._05_per_02.06.2025_A09B55.pdf</source>
+          <updatedAt>2025-06-28T11:43:11.088469Z</updatedAt>
+          <type>DEPOSIT</type>
+        </account-transaction>
+        <account-transaction id="187">
+          <uuid>de60b157-e39f-4e64-8dad-14067aff7a99</uuid>
+          <date>2025-04-30T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>16754</amount>
+          <security reference="13"/>
+          <shares>577500000000</shares>
+          <source>Steuermitteilung_BAY001_(BAYER_AG_NA_O.N.)_vom_30.04.2025_25EA9E.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.425Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="188">
+          <uuid>f8b14709-ba82-497e-874e-c598e3d486d8</uuid>
+          <date>2025-05-07T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>528455</amount>
+          <security reference="12"/>
+          <shares>890500000000</shares>
+          <source>Steuermitteilung_BASF11_(BASF_SE_NA_O.N.)_vom_07.05.2025_766138.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.449193Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="189">
+          <uuid>b74aa660-8ff4-4ae9-a0d9-78dcc79e3af5</uuid>
+          <date>2025-05-12T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1541843</amount>
+          <security reference="16"/>
+          <shares>1359500000000</shares>
+          <source>Steuermitteilung_710000_(MERCEDES-BENZ_GRP_NA_O.N.)_vom_12.05.2025_201FEF.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.468456Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="190">
+          <uuid>9a6f89e1-6a11-41be-b88d-ae733130a730</uuid>
+          <date>2025-05-13T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2043060</amount>
+          <security reference="15"/>
+          <shares>503000000000</shares>
+          <source>Steuermitteilung_840400_(ALLIANZ_SE_NA_O.N.)_vom_13.05.2025_FC1A46.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.487494Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="191">
+          <uuid>27a3b4b1-85f5-4724-86d6-26a97c99ccbc</uuid>
+          <date>2025-05-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>60135</amount>
+          <security reference="17"/>
+          <shares>300000000000</shares>
+          <source>Steuermitteilung_A0Z2ZZ_(FREENET_AG_NA_O.N.)_vom_16.05.2025_A3682C.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.575982Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="192">
+          <uuid>611e45ba-26d5-4bbc-9dfa-16756ef02ce1</uuid>
+          <date>2025-05-19T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>533606</amount>
+          <security reference="20"/>
+          <shares>470500000000</shares>
+          <source>Steuermitteilung_519000_(BAY.MOTOREN_WERKE_AG_ST)_vom_19.05.2025_30E9D5.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.595302Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="193">
+          <uuid>f7c08caf-6849-4974-ae98-d3d8f40c0dca</uuid>
+          <date>2025-05-20T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2142968</amount>
+          <security reference="14"/>
+          <shares>12500000000000</shares>
+          <source>Steuermitteilung_CBK100_(COMMERZBANK_AG)_vom_20.05.2025_3DB39F.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.614645Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="194">
+          <uuid>081e9743-3876-4cd7-b261-a6033dd32213</uuid>
+          <date>2025-05-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>475557</amount>
+          <security reference="21"/>
+          <shares>283500000000</shares>
+          <source>Steuermitteilung_766403_(VOLKSWAGEN_AG_VZO_O.N.)_vom_21.05.2025_7C0321.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.633518Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="195">
+          <uuid>bd12687d-f5b5-4526-b8e9-c9cca3dd75a7</uuid>
+          <date>2025-05-27T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>743674</amount>
+          <security reference="18"/>
+          <shares>4146500000000</shares>
+          <source>Steuermitteilung_514000_(DEUTSCHE_BANK_AG_NA_O.N.)_vom_27.05.2025_B22792.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.690475Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="196">
+          <uuid>8aa25c3e-44e7-4cc3-b0a0-a72d3faba3e5</uuid>
+          <date>2025-06-02T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>340615</amount>
+          <security reference="19"/>
+          <shares>679700000000</shares>
+          <source>Steuermitteilung_DTR0CK_(DAIMLER_TRUCK_HLDG_NA_ON)_vom_02.06.2025_97A204.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.779288Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="197">
+          <uuid>d8c1e479-9477-40cd-a069-c546c70976d8</uuid>
+          <date>2025-04-30T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>63525</amount>
+          <security reference="13"/>
+          <shares>577500000000</shares>
+          <note>Ref.-Nr.: 22IM61KKJNK007IB</note>
+          <source>Dividendengutschrift_5.775_St._BAY001_(BAYER_AG_NA_O.N.)_vom_30.04.2025_EEFE77.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.338069Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="198">
+          <uuid>5994b399-76c6-4c5d-ad9f-1b6ddf36029e</uuid>
+          <date>2025-05-07T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2003625</amount>
+          <security reference="12"/>
+          <shares>890500000000</shares>
+          <note>Ref.-Nr.: 2CIM6I95VF500ARP</note>
+          <source>Dividendengutschrift_8.905_St._BASF11_(BASF_SE_NA_O.N.)_vom_07.05.2025_D66994.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.344920Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="199">
+          <uuid>d9202178-72d1-47c9-a2a8-9bb8398fe589</uuid>
+          <date>2025-05-12T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>5845850</amount>
+          <security reference="16"/>
+          <shares>1359500000000</shares>
+          <note>Ref.-Nr.: 1QIM6PFK8YS00F6L</note>
+          <source>Dividendengutschrift_13.595_St._710000_(MERCEDES-BENZ_GRP_NA_O.N.)_vom_12.05.2025_396D48.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.350979Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="200">
+          <uuid>67e49c47-8500-4b35-96f7-1fb33a20a008</uuid>
+          <date>2025-05-13T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>7746200</amount>
+          <security reference="15"/>
+          <shares>503000000000</shares>
+          <note>Ref.-Nr.: 2SIM6WIV9T400DFK</note>
+          <source>Dividendengutschrift_5.030_St._840400_(ALLIANZ_SE_NA_O.N.)_vom_13.05.2025_7FC092.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.356829Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="201">
+          <uuid>a8753fc8-419c-4ad5-bd92-e365c4500cb6</uuid>
+          <date>2025-05-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>363000</amount>
+          <security reference="17"/>
+          <shares>300000000000</shares>
+          <note>Ref.-Nr.: 0WIM73SE6J500K86</note>
+          <source>Dividendengutschrift_3.000_St._A0Z2ZZ_(FREENET_AG_NA_O.N.)_vom_16.05.2025_943E65.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.369550Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="202">
+          <uuid>8e060ac4-29c7-4b90-b552-ac72cb7dbc74</uuid>
+          <date>2025-05-16T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>228000</amount>
+          <security reference="17"/>
+          <shares>300000000000</shares>
+          <note>Ref.-Nr.: 0WIM73SE6J5002H7</note>
+          <source>Dividendengutschrift_3.000_St._A0Z2ZZ_(FREENET_AG_NA_O.N.)_vom_16.05.2025_AFA5D8.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.376012Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="203">
+          <uuid>a1e1b48f-9b4e-4df2-9984-374286b8237d</uuid>
+          <date>2025-05-19T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2023150</amount>
+          <security reference="20"/>
+          <shares>470500000000</shares>
+          <note>Ref.-Nr.: 1IIM76BOJ04005ZV</note>
+          <source>Dividendengutschrift_4.705_St._519000_(BAY.MOTOREN_WERKE_AG_ST)_vom_19.05.2025_1FA584.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.382767Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="204">
+          <uuid>e691bd93-4c5d-49be-87d6-cdd02f10ee6a</uuid>
+          <date>2025-05-20T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>8125000</amount>
+          <security reference="14"/>
+          <shares>12500000000000</shares>
+          <note>Ref.-Nr.: 1SIM7D75Y3P009PT</note>
+          <source>Dividendengutschrift_125.000_St._CBK100_(COMMERZBANK_AG)_vom_20.05.2025_83D4BA.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.434122Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="205">
+          <uuid>f7e844cf-7773-48b1-a0f8-0c0283788215</uuid>
+          <date>2025-05-21T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1803060</amount>
+          <security reference="21"/>
+          <shares>283500000000</shares>
+          <note>Ref.-Nr.: 0CIM7FK4S4O007FG</note>
+          <source>Dividendengutschrift_2.835_St._766403_(VOLKSWAGEN_AG_VZO_O.N.)_vom_21.05.2025_8C9547.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.440065Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="206">
+          <uuid>718f915c-b9cf-49e5-9654-130e13ecf99b</uuid>
+          <date>2025-05-27T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2819620</amount>
+          <security reference="18"/>
+          <shares>4146500000000</shares>
+          <note>Ref.-Nr.: 12IM7TWMKBT006T2</note>
+          <source>Dividendengutschrift_41.465_St._514000_(DEUTSCHE_BANK_AG_NA_O.N.)_vom_27.05.2025_E681AE.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.492972Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="207">
+          <uuid>55c2223c-21d1-4fe0-b0b1-8899f7f8625e</uuid>
+          <date>2025-06-02T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1291430</amount>
+          <security reference="19"/>
+          <shares>679700000000</shares>
+          <note>Ref.-Nr.: 0OIM83G5W2K0085H</note>
+          <source>Dividendengutschrift_6.797_St._DTR0CK_(DAIMLER_TRUCK_HLDG_NA_ON)_vom_02.06.2025_C10A83.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.520057Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+      </transactions>
+      <attributes>
+        <map/>
+      </attributes>
+      <updatedAt>2024-10-21T12:36:32.635981Z</updatedAt>
+    </account>
+    <account id="208">
+      <uuid>d7baec6f-64ef-43a6-80e1-fd9cc59c1280</uuid>
+      <name>CHF</name>
+      <currencyCode>CHF</currencyCode>
+      <isRetired>false</isRetired>
+      <transactions>
+        <account-transaction id="209">
+          <uuid>b11ba559-9215-4993-86ef-b792ecf286e2</uuid>
+          <date>2025-04-07T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>895702</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._04_per_02.05.2025_D6AC5F.pdf</source>
+          <updatedAt>2025-06-28T11:43:10.993193Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="210">
+          <uuid>1b3eeb8e-be9e-40cb-9bbe-9fb74cba1514</uuid>
+          <date>2025-05-26T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>678665</amount>
+          <shares>0</shares>
+          <note>Kontoübertrag</note>
+          <source>Finanzreport_Nr._05_per_02.06.2025_A09B55.pdf</source>
+          <updatedAt>2025-06-28T11:43:11.088468Z</updatedAt>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction id="211">
+          <uuid>6ed326ab-2bdc-4d91-a8df-f47e4168ffb2</uuid>
+          <date>2025-03-13T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>887380</amount>
+          <security reference="22"/>
+          <shares>470000000000</shares>
+          <source>Steuermitteilung_904278_(NOVARTIS_NAM._SF_0,49)_vom_13.03.2025_B2D835.pdf</source>
+          <updatedAt>2025-06-28T12:01:55.325531Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="212">
+          <uuid>95bc92f8-39eb-426a-a684-e169fa71d325</uuid>
+          <date>2025-04-15T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>738342</amount>
+          <security reference="25"/>
+          <shares>42500000000</shares>
+          <source>Steuermitteilung_579919_(ZURICH_INSUR.GR.NA.SF0,10)_vom_15.04.2025_6920B1.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.366197Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="213">
+          <uuid>63bb7100-c471-4f10-84c9-cdac65770dca</uuid>
+          <date>2025-04-23T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>32916</amount>
+          <security reference="26"/>
+          <shares>94000000000</shares>
+          <source>Steuermitteilung_A3ETYB_(SANDOZ_GROUP_AG_SF_-,05)_vom_23.04.2025_257438.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.405274Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="214">
+          <uuid>d2ac7985-a192-41e6-bd91-ba61ca067170</uuid>
+          <date>2025-04-23T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>32916</amount>
+          <security reference="26"/>
+          <shares>94000000000</shares>
+          <source>Steuermitteilung_A3ETYB_(SANDOZ_GROUP_AG_SF_-,05)_vom_23.04.2025_40D00F.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.709336Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="215">
+          <uuid>6d6e76b3-3e6e-4156-a840-920c5de5c8aa</uuid>
+          <date>2025-03-13T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>1645000</amount>
+          <security reference="22"/>
+          <shares>470000000000</shares>
+          <note>Ref.-Nr.: 06IM2X5FPAN00CJE</note>
+          <source>Dividendengutschrift_4.700_St._904278_(NOVARTIS_NAM._SF_0,49)_vom_13.03.2025_A41395.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.032754Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="216">
+          <uuid>d6e043e9-9c48-49cc-b7ab-4c93007412a1</uuid>
+          <date>2025-04-15T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>1190000</amount>
+          <security reference="25"/>
+          <shares>42500000000</shares>
+          <note>Ref.-Nr.: 0OIM53QL899003NF</note>
+          <source>Dividendengutschrift_425_St._579919_(ZURICH_INSUR.GR.NA.SF0,10)_vom_15.04.2025_F50AAC.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.315236Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="217">
+          <uuid>a73cb790-1197-4b73-a598-0b8998aeaa59</uuid>
+          <date>2025-04-23T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>56400</amount>
+          <security reference="26"/>
+          <shares>94000000000</shares>
+          <note>Ref.-Nr.: 14IM5MSVDAO004K4</note>
+          <source>Dividendengutschrift_940_St._A3ETYB_(SANDOZ_GROUP_AG_SF_-,05)_vom_23.04.2025_8A29EE.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.332285Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="218">
+          <uuid>4468618b-03b8-44e3-9055-2976cc180d6a</uuid>
+          <date>2025-04-23T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>56400</amount>
+          <security reference="26"/>
+          <shares>94000000000</shares>
+          <note>Ref.-Nr.: 2KIM7VRW9MI000ZK</note>
+          <source>Dividendengutschrift_940_St._A3ETYB_(SANDOZ_GROUP_AG_SF_-,05)_vom_23.04.2025_36006C.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.513932Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+      </transactions>
+      <attributes>
+        <map/>
+      </attributes>
+      <updatedAt>2024-07-30T15:53:48.000595Z</updatedAt>
+    </account>
+    <account id="219">
+      <uuid>b8c05494-3993-4eba-9048-91d96d92c918</uuid>
+      <name>GBP</name>
+      <currencyCode>GBP</currencyCode>
+      <isRetired>false</isRetired>
+      <transactions>
+        <account-transaction id="220">
+          <uuid>cc6cf8cb-97db-4a61-99e9-bf4115645d48</uuid>
+          <date>2025-03-24T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>196633</amount>
+          <security reference="23"/>
+          <shares>171000000000</shares>
+          <source>Steuermitteilung_886455_(ASTRAZENECA_PLC_DL-,25)_vom_24.03.2025_C0B2AE.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.269434Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="221">
+          <uuid>2cb1cc26-7cc6-467c-a895-e641ff173a17</uuid>
+          <date>2025-03-24T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>332462</amount>
+          <security reference="6"/>
+          <shares>1758000000000</shares>
+          <source>Steuermitteilung_A3C99G_(SHELL_PLC_EO-07)_vom_24.03.2025_5111C9.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.289007Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="222">
+          <uuid>dfdbce5d-14eb-4c3a-bd8d-a6b6f06e9009</uuid>
+          <date>2025-03-28T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>237929</amount>
+          <security reference="5"/>
+          <shares>5525700000000</shares>
+          <source>Steuermitteilung_850517_(BP_PLC_SHARES_DL_-,25)_vom_28.03.2025_03A464.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.308443Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="223">
+          <uuid>2877a401-883f-414a-a00e-dff42625276e</uuid>
+          <date>2025-03-28T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>112814</amount>
+          <security reference="5"/>
+          <shares>2620000000000</shares>
+          <source>Steuermitteilung_850517_(BP_PLC_SHARES_DL_-,25)_vom_28.03.2025_D55807.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.327717Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="224">
+          <uuid>b7b2d6bf-e53e-4607-97b5-9f7e30f00fe1</uuid>
+          <date>2025-05-22T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>240423</amount>
+          <security reference="9"/>
+          <shares>1520000000000</shares>
+          <source>Steuermitteilung_A3DJ6W_(AVIVA_PLC_LS-,33)_vom_22.05.2025_DD2718.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.652706Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="225">
+          <uuid>60664ab1-1cb6-49e0-936d-1de676e01e84</uuid>
+          <date>2025-06-23T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>292099</amount>
+          <security reference="6"/>
+          <shares>1758000000000</shares>
+          <source>Steuermitteilung_A3C99G_(SHELL_PLC_EO-07)_vom_23.06.2025_FAF0C8.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.916854Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="226">
+          <uuid>84cecccd-5064-4f18-bd09-3feb374c1ac9</uuid>
+          <date>2025-06-27T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>205291</amount>
+          <security reference="5"/>
+          <shares>5525700000000</shares>
+          <source>Steuermitteilung_850517_(BP_PLC_SHARES_DL_-,25)_vom_27.06.2025_1F14B3.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.935820Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="227">
+          <uuid>0548fbbd-7851-4e20-b290-53aceb846228</uuid>
+          <date>2025-06-27T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>97338</amount>
+          <security reference="5"/>
+          <shares>2620000000000</shares>
+          <source>Steuermitteilung_850517_(BP_PLC_SHARES_DL_-,25)_vom_27.06.2025_672B29.pdf</source>
+          <updatedAt>2025-06-28T12:01:56.954547Z</updatedAt>
+          <type>TAXES</type>
+        </account-transaction>
+        <account-transaction id="228">
+          <uuid>2be2fab9-8f49-47e5-a233-02651512b45d</uuid>
+          <date>2025-03-24T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>287280</amount>
+          <security reference="23"/>
+          <shares>171000000000</shares>
+          <note>Ref.-Nr.: 0EIM3NCTRO40077X | Zwischendividende</note>
+          <source>Dividendengutschrift_1.710_St._886455_(ASTRAZENECA_PLC_DL-,25)_vom_24.03.2025_D243DD.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.118191Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="229">
+          <uuid>16849d30-15b1-4b29-9a3e-debb8366c29b</uuid>
+          <date>2025-03-24T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>488548</amount>
+          <security reference="6"/>
+          <shares>1758000000000</shares>
+          <note>Ref.-Nr.: 0EIM3NCTRO4003TF | Quartalsdividende</note>
+          <source>Dividendengutschrift_17.580_St._A3C99G_(SHELL_PLC_EO-07)_vom_24.03.2025_F03649.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.125548Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="230">
+          <uuid>8bf29a7f-98c5-4f36-bad6-2ebeb4e7fa87</uuid>
+          <date>2025-03-28T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>161814</amount>
+          <security reference="5"/>
+          <shares>2620000000000</shares>
+          <note>Ref.-Nr.: 12IM3WVHR5L00AID | Quartalsdividende</note>
+          <source>Dividendengutschrift_26.200_St._850517_(BP_PLC_SHARES_DL_-,25)_vom_28.03.2025_3AC841.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.134216Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="231">
+          <uuid>9a5e8c3e-041c-43ec-91af-8a2bb79018f5</uuid>
+          <date>2025-03-28T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>341273</amount>
+          <security reference="5"/>
+          <shares>5525700000000</shares>
+          <note>Ref.-Nr.: 12IM3WVHR5L00AIC | Quartalsdividende</note>
+          <source>Dividendengutschrift_55.257_St._850517_(BP_PLC_SHARES_DL_-,25)_vom_28.03.2025_A3DCD8.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.141854Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="232">
+          <uuid>3a44d3f7-a804-40d9-b774-dfff5ed83a25</uuid>
+          <date>2025-05-22T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>361760</amount>
+          <security reference="9"/>
+          <shares>1520000000000</shares>
+          <note>Ref.-Nr.: 1OIM7JVA7S100031 | Schlussdividende</note>
+          <source>Dividendengutschrift_15.200_St._A3DJ6W_(AVIVA_PLC_LS-,33)_vom_22.05.2025_BD42A4.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.469773Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="233">
+          <uuid>edd9b384-97eb-4363-b757-7e2c9c26cd8b</uuid>
+          <date>2025-06-23T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>464288</amount>
+          <security reference="6"/>
+          <shares>1758000000000</shares>
+          <note>Ref.-Nr.: 04IM9O2A7ZL00684 | Quartalsdividende</note>
+          <source>Dividendengutschrift_17.580_St._A3C99G_(SHELL_PLC_EO-07)_vom_23.06.2025_159817.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.550723Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="234">
+          <uuid>2acb64c5-4681-4154-8c83-680b9aa1b092</uuid>
+          <date>2025-06-27T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>154562</amount>
+          <security reference="5"/>
+          <shares>2620000000000</shares>
+          <note>Ref.-Nr.: 2QIM9XL81CV004NC | Quartalsdividende</note>
+          <source>Dividendengutschrift_26.200_St._850517_(BP_PLC_SHARES_DL_-,25)_vom_27.06.2025_CAE609.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.556331Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction id="235">
+          <uuid>b381fcb4-5377-4afa-b5a9-d3af60052449</uuid>
+          <date>2025-06-27T00:00</date>
+          <currencyCode>GBP</currencyCode>
+          <amount>325978</amount>
+          <security reference="5"/>
+          <shares>5525700000000</shares>
+          <note>Ref.-Nr.: 2QIM9XL81CV004NB | Quartalsdividende</note>
+          <source>Dividendengutschrift_55.257_St._850517_(BP_PLC_SHARES_DL_-,25)_vom_27.06.2025_40BEC2.pdf</source>
+          <updatedAt>2025-06-28T12:03:54.561948Z</updatedAt>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+      </transactions>
+      <attributes>
+        <map/>
+      </attributes>
+      <updatedAt>2024-07-30T15:54:08.302991Z</updatedAt>
+    </account>
+    <account reference="88"/>
+  </accounts>
+  <portfolios>
+    <portfolio reference="56"/>
+    <portfolio reference="87"/>
+    <portfolio id="236">
+      <uuid>251561f5-7751-4a4a-a2ab-89473206ce16</uuid>
+      <name>GBP (SA)</name>
+      <isRetired>false</isRetired>
+      <referenceAccount reference="219"/>
+      <transactions/>
+      <attributes>
+        <map/>
+      </attributes>
+      <updatedAt>2024-09-07T11:20:52.196233Z</updatedAt>
+    </portfolio>
+    <portfolio id="237">
+      <uuid>397621bc-89b6-4833-889e-11fd5b7d8573</uuid>
+      <name>CHF (SA)</name>
+      <isRetired>false</isRetired>
+      <referenceAccount reference="208"/>
+      <transactions/>
+      <attributes>
+        <map/>
+      </attributes>
+      <updatedAt>2024-09-07T11:21:37.011625Z</updatedAt>
+    </portfolio>
+    <portfolio id="238">
+      <uuid>21d54c1a-d9c1-43cb-b7d0-45cb7eeed5c8</uuid>
+      <name>YP (SA)</name>
+      <isRetired>false</isRetired>
+      <referenceAccount reference="34"/>
+      <transactions/>
+      <attributes>
+        <map/>
+      </attributes>
+      <updatedAt>2025-06-28T11:49:33.337760Z</updatedAt>
+    </portfolio>
+  </portfolios>
+  <plans/>
+  <taxonomies>
+    <taxonomy>
+      <id>9ff8b689-173e-47c9-8b4f-29e6d0dd559b</id>
+      <name>Asset Classes</name>
+      <dimensions>
+        <string>Asset Class</string>
+      </dimensions>
+      <root id="239">
+        <id>92780600-f1ed-4a3f-840d-5338e988a354</id>
+        <name>Asset Classes</name>
+        <color>#bbaca8</color>
+        <children>
+          <classification id="240">
+            <id>ab89c054-929f-4b29-b090-a39e3b0f026e</id>
+            <name>Cash</name>
+            <color>#c437c2</color>
+            <parent reference="239"/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>0</rank>
+            <data>
+              <entry>
+                <string>portfolioClassificationKey</string>
+                <string>CASH</string>
+              </entry>
+            </data>
+          </classification>
+          <classification id="241">
+            <id>7caa8926-6ad4-47bc-816c-6ee126c7b3b6</id>
+            <name>Equity</name>
+            <color>#5757ff</color>
+            <parent reference="239"/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>0</rank>
+            <data>
+              <entry>
+                <string>portfolioClassificationKey</string>
+                <string>EQUITY</string>
+              </entry>
+            </data>
+          </classification>
+          <classification id="242">
+            <id>37f772f0-59df-4ca3-92b3-52ceb667005c</id>
+            <name>Debt</name>
+            <color>#dca122</color>
+            <parent reference="239"/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>0</rank>
+            <data>
+              <entry>
+                <string>portfolioClassificationKey</string>
+                <string>DEBT</string>
+              </entry>
+            </data>
+          </classification>
+          <classification id="243">
+            <id>a3947aa9-5079-48b1-b024-2db3a4903a08</id>
+            <name>Real Estate</name>
+            <color>#fd6a0e</color>
+            <parent reference="239"/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>0</rank>
+            <data>
+              <entry>
+                <string>portfolioClassificationKey</string>
+                <string>REAL_ESTATE</string>
+              </entry>
+            </data>
+          </classification>
+          <classification id="244">
+            <id>4341fd98-3581-4a27-a148-98ba539431e2</id>
+            <name>Commodity</name>
+            <color>#579f57</color>
+            <parent reference="239"/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>0</rank>
+            <data>
+              <entry>
+                <string>portfolioClassificationKey</string>
+                <string>COMMODITY</string>
+              </entry>
+            </data>
+          </classification>
+        </children>
+        <assignments/>
+        <weight>10000</weight>
+        <rank>0</rank>
+        <data>
+          <entry>
+            <string>portfolioClassificationKey</string>
+            <string>assetclasses</string>
+          </entry>
+        </data>
+      </root>
+    </taxonomy>
+  </taxonomies>
+  <dashboards>
+    <dashboard name="Dashboard">
+      <id>d796106e-f7f5-47cb-91c6-e08301dfd906</id>
+      <configuration>
+        <entry>
+          <string>REPORTING_PERIOD</string>
+          <string>L1Y0</string>
+        </entry>
+      </configuration>
+      <columns>
+        <column>
+          <weight>1</weight>
+          <widgets>
+            <widget type="HEADING">
+              <label>Key Indicators</label>
+            </widget>
+            <widget type="TTWROR">
+              <label>True Time-Weighted Rate of Return (cumulative)</label>
+              <configuration/>
+            </widget>
+            <widget type="IRR">
+              <label>Internal Rate of Return (IRR)</label>
+              <configuration/>
+            </widget>
+            <widget type="ABSOLUTE_CHANGE">
+              <label>Absolute Change</label>
+              <configuration/>
+            </widget>
+            <widget type="DELTA">
+              <label>Delta (for reporting period)</label>
+              <configuration/>
+            </widget>
+            <widget type="HEADING">
+              <label>Last Day</label>
+            </widget>
+            <widget type="TTWROR">
+              <label>True Time-Weighted Rate of Return (cumulative)</label>
+              <configuration>
+                <entry>
+                  <string>REPORTING_PERIOD</string>
+                  <string>T1</string>
+                </entry>
+              </configuration>
+            </widget>
+            <widget type="ABSOLUTE_CHANGE">
+              <label>Absolute Change</label>
+              <configuration>
+                <entry>
+                  <string>REPORTING_PERIOD</string>
+                  <string>T1</string>
+                </entry>
+              </configuration>
+            </widget>
+          </widgets>
+        </column>
+        <column>
+          <weight>1</weight>
+          <widgets>
+            <widget type="HEADING">
+              <label>Risk Indicators</label>
+            </widget>
+            <widget type="MAXDRAWDOWN">
+              <label>Maximum Drawdown</label>
+              <configuration/>
+            </widget>
+            <widget type="MAXDRAWDOWNDURATION">
+              <label>Max Drawdown Duration</label>
+              <configuration/>
+            </widget>
+            <widget type="VOLATILITY">
+              <label>Volatility</label>
+              <configuration/>
+            </widget>
+            <widget type="SEMIVOLATILITY">
+              <label>Semivariance</label>
+              <configuration/>
+            </widget>
+          </widgets>
+        </column>
+        <column>
+          <weight>1</weight>
+          <widgets>
+            <widget type="HEADING">
+              <label>Calculation</label>
+            </widget>
+            <widget type="CALCULATION">
+              <label>Performance Calculation</label>
+              <configuration/>
+            </widget>
+          </widgets>
+        </column>
+      </columns>
+    </dashboard>
+  </dashboards>
+  <properties/>
+  <settings>
+    <bookmarks>
+      <bookmark>
+        <label>finance.yahoo.com</label>
+        <pattern>https://finance.yahoo.com/quote/{tickerSymbol}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>onvista.de</label>
+        <pattern>https://www.onvista.de/suche.html?SEARCH_VALUE={isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>finanzen.net</label>
+        <pattern>https://www.finanzen.net/suchergebnis.asp?frmAktiensucheTextfeld={isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>ariva.de</label>
+        <pattern>https://www.ariva.de/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>justetf.com  (ETF)</label>
+        <pattern>https://www.justetf.com/etf-profile.html?isin={isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>fondsweb.com</label>
+        <pattern>https://www.fondsweb.com/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>morningstar.de</label>
+        <pattern>https://www.morningstar.de/de/funds/SecuritySearchResults.aspx?type=ALL&amp;search={isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>extraETF.com (ETF)</label>
+        <pattern>https://extraetf.com/etf-profile/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>alleaktien.de (Share)</label>
+        <pattern>https://www.alleaktien.de/data/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>comdirect.de (Share)</label>
+        <pattern>https://www.comdirect.de/inf/aktien/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>comdirect.de (ETF)</label>
+        <pattern>https://www.comdirect.de/inf/etfs/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>divvydiary.com</label>
+        <pattern>https://divvydiary.com/symbols/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>trackingdifferences.com (ETF)</label>
+        <pattern>https://www.trackingdifferences.com/ETF/ISIN/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>tradingview.com</label>
+        <pattern>https://www.tradingview.com/chart/?symbol=XETR:{tickerSymbolPrefix}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>cnbc.com (Share)</label>
+        <pattern>https://www.cnbc.com/quotes/{tickerSymbolPrefix}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>nasdaq.com (Share)</label>
+        <pattern>https://www.nasdaq.com/market-activity/stocks/{tickerSymbolPrefix}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>aktienfinder.net (Share)</label>
+        <pattern>https://aktienfinder.net/aktien-profil/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>aktien.guide (Share)</label>
+        <pattern>http://aktien.guide/isin/aktien/{isin}</pattern>
+      </bookmark>
+    </bookmarks>
+    <attributeTypes>
+      <attribute-type>
+        <id>logo</id>
+        <name>Logo</name>
+        <columnLabel>Logo</columnLabel>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.String</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$ImageConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>logo</id>
+        <name>Logo</name>
+        <columnLabel>Logo</columnLabel>
+        <target>name.abuchen.portfolio.model.Account</target>
+        <type>java.lang.String</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$ImageConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>logo</id>
+        <name>Logo</name>
+        <columnLabel>Logo</columnLabel>
+        <target>name.abuchen.portfolio.model.Portfolio</target>
+        <type>java.lang.String</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$ImageConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>logo</id>
+        <name>Logo</name>
+        <columnLabel>Logo</columnLabel>
+        <target>name.abuchen.portfolio.model.InvestmentPlan</target>
+        <type>java.lang.String</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$ImageConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>ter</id>
+        <name>Total Expense Ratio (TER)</name>
+        <columnLabel>TER</columnLabel>
+        <source>ter</source>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.Double</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$PercentConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>aum</id>
+        <name>Assets under Management</name>
+        <columnLabel>AUM</columnLabel>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.Long</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$AmountPlainConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>vendor</id>
+        <name>Vendor</name>
+        <columnLabel>Vendor</columnLabel>
+        <source>vendor</source>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.String</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$StringConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>acquisitionFee</id>
+        <name>Acquisition Fee (percentage)</name>
+        <columnLabel>Acquisition Fee</columnLabel>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.Double</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$PercentConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>managementFee</id>
+        <name>Management Fee (percentage)</name>
+        <columnLabel>Management Fee</columnLabel>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.Double</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$PercentConverter</converterClass>
+      </attribute-type>
+    </attributeTypes>
+    <configurationSets>
+      <entry>
+        <string>StatementOfAssetsHistoryView-PICKER</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>753a5d51-7482-42f8-9d7f-a703491a3636</uuid>
+              <name>Standard</name>
+              <data>Client-totals;#000000;SOLID;false;2;true,Client-transferals;#808080;SOLID;false;2;true</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>ReturnsVolatilityChartView-PICKER</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>51b14348-d0e0-4140-a868-2046255cc5c1</uuid>
+              <name>Standard</name>
+              <data>Client-totals;#000000;SOLID;false;2;true</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>name.abuchen.portfolio.ui.views.SecuritiesPerformanceView</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>83f1f306-9708-4161-a867-24b7c41b069c</uuid>
+              <name>Standard</name>
+              <data>{&quot;items&quot;:[{&quot;id&quot;:&quot;shares&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;name&quot;,&quot;sortDirection&quot;:128,&quot;width&quot;:300},{&quot;id&quot;:&quot;pv&quot;,&quot;width&quot;:75},{&quot;id&quot;:&quot;pp&quot;,&quot;width&quot;:75},{&quot;id&quot;:&quot;quote&quot;,&quot;width&quot;:75},{&quot;id&quot;:&quot;5&quot;,&quot;width&quot;:60},{&quot;id&quot;:&quot;changeonpreviousamount&quot;,&quot;width&quot;:60},{&quot;id&quot;:&quot;mv&quot;,&quot;width&quot;:75},{&quot;id&quot;:&quot;sumdiv&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;twror&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;izf&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;delta&quot;,&quot;width&quot;:80}]}</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>name.abuchen.portfolio.ui.views.SecuritiesTable</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>8d1cda4a-c189-4f20-a9e4-d6da79ce6d00</uuid>
+              <name>Standard</name>
+              <data>{&quot;items&quot;:[{&quot;id&quot;:&quot;0&quot;,&quot;sortDirection&quot;:128,&quot;width&quot;:400},{&quot;id&quot;:&quot;note&quot;,&quot;width&quot;:200},{&quot;id&quot;:&quot;1&quot;,&quot;width&quot;:100},{&quot;id&quot;:&quot;2&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;7&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;4&quot;,&quot;width&quot;:60},{&quot;id&quot;:&quot;5&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;changeonpreviousamount&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;9&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;10&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;q-date-first-historic&quot;,&quot;width&quot;:80}]}</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>PerformanceChartView-PICKER</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>0de6063d-6a08-471e-a8cb-e96766ed5f09</uuid>
+              <name>Standard</name>
+              <data>Client-totals;#000000;SOLID;false;2;true</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>reporting-periods</string>
+        <config-set>
+          <configurations/>
+        </config-set>
+      </entry>
+      <entry>
+        <string>name.abuchen.portfolio.ui.views.StatementOfAssetsViewer</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>9c9c6710-9834-4cbf-a692-35c76b008b86</uuid>
+              <name>Standard</name>
+              <data>{&quot;items&quot;:[{&quot;id&quot;:&quot;0&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;1&quot;,&quot;width&quot;:300},{&quot;id&quot;:&quot;2&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;4&quot;,&quot;width&quot;:60},{&quot;id&quot;:&quot;5&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;6&quot;,&quot;width&quot;:80},{&quot;id&quot;:&quot;note&quot;,&quot;width&quot;:200}]}</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>client-filter-definitions</string>
+        <config-set>
+          <configurations/>
+        </config-set>
+      </entry>
+      <entry>
+        <string>client-filter-selection</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>PaymentsViewModel</uuid>
+              <name></name>
+              <data></data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+    </configurationSets>
+  </settings>
+</client>
