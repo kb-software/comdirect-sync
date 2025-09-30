@@ -20,7 +20,7 @@
 *.rar
 
 java-upgrade/
-
+devDoc/hidden
 
 # Maven
 target/
