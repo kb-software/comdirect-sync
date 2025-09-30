@@ -1,12 +1,26 @@
 # comdirect-sync
 
-Create a project based in Java, Javafx and Spring Boot, that get infor from the Comdirect RestAPI to get the Finanzial & Dokuments and proccess them into the file named sample.xml
+De acuerdo a comdirect, se deben seguir los siguientes pasos
 
-The project must use the Hexagonal architecture because it will comunicate with other applications.
+2 So geht es los
+2.1 OAuth2 Resource Owner Password Credentials Flow
+2.2 Session-Status
+2.3 Anlage Validierung einer Session-TAN
+2.4 Aktivierung einer Session-TAN
+2.5 OAuth2 CD Secondary-Flow
+5.1.1 Abruf Depots
+5.1.2 Abruf Depotbestand und/oder Positionen
+5.1.3 Abruf einer Position des Depots
+5.1.4 Abruf Depotumsätze
+9.1.1 Abruf PostBox
 
-**Wizard**
+Antes de hacer una petición a la API real, me gustaría usar los datos en InmemoryRepository y vayamos verificando paso por paso.
 
-1. Login
+Ya tengo los json de request y de response.
+
+Nota; por el momento no quiero JavaFX, porque la última vez tuvimos muchos problemas, usaremos el modo consola porque allí creo tenemos más flexibilidad para mostrar información en pantalla.
+
+También deberemos mandar los logs a un archivo de texto.
 
 ## Autentication OAuth2 process
 
@@ -42,7 +56,6 @@ Requested data
 
 ### 2.2 Session-Status
 
-We send
 
 ```bash
 curl --location 'https://api.comdirect.de/api/session/clients/user/v1/sessions' \
@@ -67,9 +80,7 @@ Requested data
 
 ### 2.3 Anlage Validierung einer Session-TAN
 
-In this point, we need to whait until the external app (Comdirect FotoTAN) authorizes the Process
-
-We send
+En este punto debemos espera hasya que se haga la autenticacón por el FotoTan, no se si podamos hacer un comprotamiento como el de MS Authenticator, es decir que cuando el usuario acepte la petición en el FotoTan automáticamente pase al segundo paso.
 
 ```bash
 curl --location 'https://api.comdirect.de/api/session/clients/user/v1/sessions/AC7AD7AB3C2D45779F95E73537B3BF12/validate' \
@@ -152,9 +163,18 @@ Requested data
 }
 ```
 
-## Obtención de Documentos
-
 ### 9.1.1 Abruf PostBox
+
+En este punto, debemos poder descargar los archivos PDF, en un archivo de configuración debo poner las cadenas a buscar, por ejemplo:
+
+
+
+```
+docuements: ["steuer","depot"]
+```
+
+Es decir que buscaré dentro de la respuesta todos los archivos PDF que concuerden con ese patrón
+
 
 ```bash
 curl --location 'https://api.comdirect.de/api/messages/clients/user/v2/documents' \
